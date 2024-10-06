@@ -1569,7 +1569,6 @@
           "type": "url",
           "url": "https://iplogger.com/"
         }]
-    }]
   },
   {
     "name": "Images / Videos / Docs",
@@ -1864,17 +1863,6 @@
           "url": "http://www.onlineocr.net/"
         }]
       },
-      {
-        "name": "Tools",
-        "type": "folder",
-        "children": [
-        {
-          "name": "Creepy (T)",
-          "type": "url",
-          "url": "http://www.geocreepy.com/"
-        }]
-      }]
-    },
     {
       "name": "Videos",
       "type": "folder",
@@ -1993,7 +1981,6 @@
           "type": "url",
           "url": "https://yasiv.com/youtube"
         }]
-      }]
     },
     {
       "name": "Webcams",
@@ -2108,7 +2095,6 @@
           "type": "url",
           "url": "https://github.com/needmorecowbell/sniff-paste"
         }]
-      }]
     },
     {
       "name": "Fonts",
@@ -2139,7 +2125,6 @@
         "type": "url",
         "url": "https://www.whatfontis.com/"
       }]
-    }]
   },
   {
     "name": "Social Networks",
