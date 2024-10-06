@@ -1,5 +1,5 @@
 {
-  "name": "OSINT Framework",
+  "name": "SCTI Framework",
   "type": "folder",
   "children": [
   {
@@ -2996,6 +2996,137 @@
         "url": "https://www.fastpeoplesearch.com/"
       }]
     },
+    {
+      "name": "Registries",
+      "type": "folder",
+      "children": [
+      {
+        "name": "The Knot",
+        "type": "url",
+        "url": "https://www.theknot.com/registry/couplesearch"
+      },
+      {
+        "name": "Registry Finder",
+        "type": "url",
+        "url": "https://www.registryfinder.com/"
+      },
+      {
+        "name": "My Registry",
+        "type": "url",
+        "url": "https://www.myregistry.com/"
+      },
+      {
+        "name": "Amazon Registry Search",
+        "type": "url",
+        "url": "https://www.amazon.com/gp/registry/search"
+      },
+      {
+        "name": "Bed, Bath, & Beyond Gift Registry",
+        "type": "url",
+        "url": "https://www.bedbathandbeyond.com/store/giftregistry/registry_search_guest.jsp"
+      },
+      {
+        "name": "The Bump",
+        "type": "url",
+        "url": "https://registry.thebump.com/babyregistrysearch"
+      }]
+    }]
+  },
+  {
+    "name": "Dating",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Match.com",
+      "type": "url",
+      "url": "http://www.match.com/"
+    },
+    {
+      "name": "AYI.com",
+      "type": "url",
+      "url": "https://www.ayi.com/index.php"
+    },
+    {
+      "name": "Plenty Of Fish.com",
+      "type": "url",
+      "url": "http://www.pof.com/"
+    },
+    {
+      "name": "eHarmony",
+      "type": "url",
+      "url": "http://www.eharmony.com/"
+    },
+    {
+      "name": "Farmers Only",
+      "type": "url",
+      "url": "http://www.farmersonly.com/"
+    },
+    {
+      "name": "Zoosk",
+      "type": "url",
+      "url": "https://www.zoosk.com/"
+    },
+    {
+      "name": "OkCupid",
+      "type": "url",
+      "url": "https://www.okcupid.com/"
+    },
+    {
+      "name": "Tinder (R)",
+      "type": "url",
+      "url": "https://tinder.com/"
+    },
+    {
+      "name": "Wamba.com",
+      "type": "url",
+      "url": "http://wamba.com/"
+    },
+    {
+      "name": "AdultFriendFinder",
+      "type": "url",
+      "url": "http://adultfriendfinder.com/"
+    },
+    {
+      "name": "Ashley Madison",
+      "type": "url",
+      "url": "https://www.ashleymadison.com/"
+    },
+    {
+      "name": "BeautifulPeople.com",
+      "type": "url",
+      "url": "https://www.beautifulpeople.com/en-US"
+    },
+    {
+      "name": "Badoo",
+      "type": "url",
+      "url": "https://badoo.us/"
+    },
+    {
+      "name": "Spark.com",
+      "type": "url",
+      "url": "https://www.spark.com/"
+    },
+    {
+      "name": "Meetup",
+      "type": "url",
+      "url": "http://www.meetup.com/"
+    },
+    {
+      "name": "BlackPeopleMeet",
+      "type": "url",
+      "url": "http://www.blackpeoplemeet.com/"
+    },
+    {
+      "name": "Bumble",
+      "type": "url",
+      "url": "https://bumble.com/"
+    },
+    {
+      "name": "Hinge",
+      "type": "url",
+      "url": "https://hinge.co/en-gb"
+    }]
+  },
   {
     "name": "Telephone Numbers",
     "type": "folder",
@@ -6664,6 +6795,11 @@
         "name": "Fiddler (T)",
         "type": "url",
         "url": "https://www.telerik.com/download/fiddler"
+      },
+      {
+        "name": "Burp Suite (T)",
+        "type": "url",
+        "url": "https://portswigger.net/burp/download.html"
       },
       {
         "name": "Page2Images (T)",
