@@ -1,9 +1,9 @@
 {
-  "name": "SCTI Framework",
+  "name": "OSINT Framework",
   "type": "folder",
   "children": [
   {
-    "name": "Persons",
+    "name": "Username",
     "type": "folder",
     "children": [
     {
@@ -71,6 +71,37 @@
         "url": "https://namesdir.com/"
       }]
     },
+    {
+      "name": "Specific Sites",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Amazon Usernames (M)",
+        "type": "url",
+        "url": "https://www.google.com/search?q=site:amazon.com+%3Cusername%3E"
+      },
+      {
+        "name": "Github User (M)",
+        "type": "url",
+        "url": "https://api.github.com/users/%3Cusername%3E/events/public"
+      },
+      {
+        "name": "Tinder Usernames (M)",
+        "type": "url",
+        "url": "https://www.gotinder.com/@%3Cusername%3E"
+      },
+      {
+        "name": "Keybase",
+        "type": "url",
+        "url": "https://keybase.io/"
+      },
+      {
+        "name": "MIT PGP Key Server",
+        "type": "url",
+        "url": "http://pgp.mit.edu/"
+      }]
+    }]
+  },
   {
     "name": "Email Address",
     "type": "folder",
@@ -460,9 +491,9 @@
         "url": "https://github.com/Sw4mpf0x/Kraken"
       },
       {
-        "name": "Cloudflare Radar",
+        "name": "Online Nikto scanner",
         "type": "url",
-        "url": "https://radar.cloudflare.com/"
+        "url": "https://nikto.online/"
       },
       {
         "name": "urlscan.io",
@@ -1569,6 +1600,7 @@
           "type": "url",
           "url": "https://iplogger.com/"
         }]
+    }]
   },
   {
     "name": "Images / Videos / Docs",
@@ -1863,6 +1895,17 @@
           "url": "http://www.onlineocr.net/"
         }]
       },
+      {
+        "name": "Tools",
+        "type": "folder",
+        "children": [
+        {
+          "name": "Creepy (T)",
+          "type": "url",
+          "url": "http://www.geocreepy.com/"
+        }]
+      }]
+    },
     {
       "name": "Videos",
       "type": "folder",
@@ -1981,6 +2024,7 @@
           "type": "url",
           "url": "https://yasiv.com/youtube"
         }]
+      }]
     },
     {
       "name": "Webcams",
@@ -2095,6 +2139,7 @@
           "type": "url",
           "url": "https://github.com/needmorecowbell/sniff-paste"
         }]
+      }]
     },
     {
       "name": "Fonts",
@@ -2125,6 +2170,7 @@
         "type": "url",
         "url": "https://www.whatfontis.com/"
       }]
+    }]
   },
   {
     "name": "Social Networks",
@@ -2718,6 +2764,61 @@
         "name": "Google CSE for Telegram links",
         "type": "url",
         "url": "https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg"
+      }]
+    }]
+  },
+  {
+    "name": "Instant Messaging",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Skype",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Skype Web Client",
+        "type": "url",
+        "url": "https://web.skype.com/"
+      },
+      {
+        "name": "MostwantedHF",
+        "type": "url",
+        "url": "http://mostwantedhf.info/index.php"
+      },
+      {
+        "name": "Skype Resolver 2019",
+        "type": "url",
+        "url": "http://www.skypeipresolver.net/"
+      }]
+    },
+    {
+      "name": "Snapchat",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Snapchat Leak Checker",
+        "type": "url",
+        "url": "https://lastpass.com/snapchat/"
+      }]
+    },
+    {
+      "name": "Kik",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Kik Username (M)",
+        "type": "url",
+        "url": "http://kik.me/%3Cusername%3E"
+      }]
+    },
+    {
+      "name": "Yikyak",
+      "type": "folder",
+      "children": [
+      {
+        "name": "YikMap",
+        "type": "url",
+        "url": "http://yikmap.com/"
       }]
     }]
   },
@@ -4541,6 +4642,81 @@
     }]
   },
   {
+    "name": "Forums / Blogs / IRC",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Forum Search Engines",
+      "type": "folder",
+      "children": [
+      {
+        "name": "BoardReader",
+        "type": "url",
+        "url": "http://boardreader.com/"
+      },
+      {
+        "name": "Omgili",
+        "type": "url",
+        "url": "http://omgili.com/"
+      },
+      {
+        "name": "Craigslist Forums",
+        "type": "url",
+        "url": "https://forums.craigslist.org/"
+      },
+      {
+        "name": "Delphi Forum Search",
+        "type": "url",
+        "url": "http://www.delphiforums.com/"
+      },
+      {
+        "name": "Google Groups Search",
+        "type": "url",
+        "url": "https://groups.google.com/forum/#!overview"
+      }]
+    },
+    {
+      "name": "Blog Search Engines",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Live Journal Seek",
+        "type": "url",
+        "url": "http://ljseek.com/"
+      },
+      {
+        "name": "Topix",
+        "type": "url",
+        "url": "http://www.topix.com/search/article?q="
+      },
+      {
+        "name": "Blog Search Engine",
+        "type": "url",
+        "url": "http://www.blogsearchengine.org/"
+      }]
+    },
+    {
+      "name": "IRC Search",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Mibbit",
+        "type": "url",
+        "url": "http://search.mibbit.com/"
+      },
+      {
+        "name": "ircsnapshot (T)",
+        "type": "url",
+        "url": "https://github.com/bwall/ircsnapshot"
+      },
+      {
+        "name": "netsplit.de",
+        "type": "url",
+        "url": "http://irc.netsplit.de/channels/search.php"
+      }]
+    }]
+  },
+  {
     "name": "Archives",
     "type": "folder",
     "children": [
@@ -4790,6 +4966,16 @@
       }]
     },
     {
+      "name": "Videos",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Eleven Labs Dubbing",
+        "type": "url",
+        "url": "https://elevenlabs.io/dubbing"
+      }]
+    },
+    {
       "name": "Analysis",
       "type": "folder",
       "children": [
@@ -4825,13 +5011,188 @@
       "url": "http://www.codetwo.com/freeware/outlook-export/"
     }]
   },
- 
   {
-    "name": "Dark Web Reports",
+    "name": "Mobile Emulation",
     "type": "folder",
     "children": [
     {
-
+      "name": "Android",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Emulation Tools",
+        "type": "folder",
+        "children": [
+        {
+          "name": "Genymotion (T)",
+          "type": "url",
+          "url": "https://www.genymotion.com/"
+        },
+        {
+          "name": "BlueStacks 2 (T)",
+          "type": "url",
+          "url": "http://www.bluestacks.com/"
+        },
+        {
+          "name": "Andy Android Emulator (T)",
+          "type": "url",
+          "url": "http://www.andyroid.net/"
+        },
+        {
+          "name": "Nox App Player",
+          "type": "url",
+          "url": "https://www.bignox.com/"
+        }]
+      },
+      {
+        "name": "Apps",
+        "type": "folder",
+        "children": [
+        {
+          "name": "Social Networking",
+          "type": "folder",
+          "children": [
+          {
+            "name": "Facebook (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.facebook.katana"
+          },
+          {
+            "name": "LinkedIn (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.linkedin.android"
+          },
+          {
+            "name": "Twitter (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.twitter.android"
+          },
+          {
+            "name": "Pinterest (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.pinterest"
+          }]
+        },
+        {
+          "name": "Instant Messaging",
+          "type": "folder",
+          "children": [
+          {
+            "name": "Signal Private Messenger (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
+          },
+          {
+            "name": "Riot.im - Communicate, your way (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=im.vector.app"
+          },
+          {
+            "name": "Telegram (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger"
+          },
+          {
+            "name": "Snapchat (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.snapchat.android"
+          },
+          {
+            "name": "WhatsApp Messenger (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
+          },
+          {
+            "name": "Kik (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=kik.android"
+          },
+          {
+            "name": "Yik Yak (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.yik.yak"
+          },
+          {
+            "name": "LINE (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=jp.naver.line.android"
+          }]
+        },
+        {
+          "name": "Pictures",
+          "type": "folder",
+          "children": [
+          {
+            "name": "Instagram (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.instagram.android"
+          },
+          {
+            "name": "Flickr (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr"
+          }]
+        },
+        {
+          "name": "Streaming Video",
+          "type": "folder",
+          "children": [
+          {
+            "name": "Periscope (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=tv.periscope.android"
+          },
+          {
+            "name": "Meerkat (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=co.getair.meerkat"
+          },
+          {
+            "name": "Vine (T)",
+            "type": "url",
+            "url": "https://play.google.com/store/apps/details?id=co.vine.android"
+          }]
+        },
+        {
+          "name": "Truecaller (T)",
+          "type": "url",
+          "url": "https://play.google.com/store/apps/details?id=com.truecaller"
+        }]
+      }]
+    }]
+  },
+  {
+    "name": "Terrorism",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Global Terrorism Database",
+      "type": "url",
+      "url": "http://www.start.umd.edu/gtd/"
+    }]
+  },
+  {
+    "name": "Dark Web",
+    "type": "folder",
+    "children": [
+    {
+      "name": "General Info",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Reddit Deep Web",
+        "type": "url",
+        "url": "https://www.reddit.com/r/deepweb"
+      },
+      {
+        "name": "Reddit Onions",
+        "type": "url",
+        "url": "https://www.reddit.com/r/onions"
+      },
+      {
+        "name": "Reddit Darknet",
+        "type": "url",
+        "url": "https://www.reddit.com/r/darknet"
       }]
     },
     {
@@ -4963,6 +5324,181 @@
       "name": "IACA Dark Web Investigation Support",
       "type": "url",
       "url": "https://iaca-darkweb-tools.com/"
+    }]
+  },
+  {
+    "name": "Digital Currency",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Bitcoin",
+      "type": "folder",
+      "children": [
+      {
+        "name": "OXT",
+        "type": "url",
+        "url": "https://oxt.me"
+      },
+      {
+        "name": "Blocktrail",
+        "type": "url",
+        "url": "https://www.blocktrail.com/BTC"
+      },
+      {
+        "name": "Blockchain.info",
+        "type": "url",
+        "url": "https://blockchain.info/"
+      },
+      {
+        "name": "Block Explorer",
+        "type": "url",
+        "url": "https://blockexplorer.com/"
+      },
+      {
+        "name": "Blockr.io",
+        "type": "url",
+        "url": "http://blockr.io/"
+      },
+      {
+        "name": "BitRef",
+        "type": "url",
+        "url": "https://bitref.com/"
+      },
+      {
+        "name": "Wallet Explorer",
+        "type": "url",
+        "url": "https://www.walletexplorer.com/"
+      },
+      {
+        "name": "Graphsense",
+        "type": "url",
+        "url": "https://graphsense.info/"
+      },
+      {
+        "name": "Blockonomics",
+        "type": "url",
+        "url": "https://www.blockonomics.co/"
+      },
+      {
+        "name": "Bitcoin Who's Who",
+        "type": "url",
+        "url": "http://bitcoinwhoswho.com/"
+      },
+      {
+        "name": "Orbit (T)",
+        "type": "url",
+        "url": "https://github.com/s0md3v/Orbit"
+      }]
+    },
+    {
+      "name": "Ethereum",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Ether.Camp",
+        "type": "url",
+        "url": "https://live.ether.camp/transactions"
+      },
+      {
+        "name": "etherchain.org",
+        "type": "url",
+        "url": "https://etherchain.org/accounts/"
+      },
+      {
+        "name": "Etherscan",
+        "type": "url",
+        "url": "https://etherscan.io/"
+      }]
+    },
+    {
+      "name": "Monero",
+      "type": "folder",
+      "children": [
+      {
+        "name": "XMRChain.net",
+        "type": "url",
+        "url": "https://xmrchain.net/"
+      },
+      {
+        "name": "Monero Blocks",
+        "type": "url",
+        "url": "http://moneroblocks.info/"
+      },
+      {
+        "name": "Chain Radar",
+        "type": "url",
+        "url": "https://chainradar.com/xmr/blocks"
+      }]
+    }]
+  },
+  {
+    "name": "Classifieds",
+    "type": "folder",
+    "children": [
+    {
+      "name": "Craigslist",
+      "type": "url",
+      "url": "http://craigslist.org/"
+    },
+    {
+      "name": "Kijiji - Canada Classifieds",
+      "type": "url",
+      "url": "http://www.kijiji.ca/"
+    },
+    {
+      "name": "Quikr - India Classifieds",
+      "type": "url",
+      "url": "http://www.quikr.com/"
+    },
+    {
+      "name": "eBay",
+      "type": "url",
+      "url": "http://www.ebay.com/"
+    },
+    {
+      "name": "OfferUp",
+      "type": "url",
+      "url": "https://offerup.com/"
+    },
+    {
+      "name": "Goofbid",
+      "type": "url",
+      "url": "http://www.goofbid.com/"
+    },
+    {
+      "name": "Flippity",
+      "type": "url",
+      "url": "http://www.flippity.com/"
+    },
+    {
+      "name": "SearchAllJunk",
+      "type": "url",
+      "url": "http://www.searchalljunk.com/"
+    },
+    {
+      "name": "TotalCraigSearch",
+      "type": "url",
+      "url": "http://www.totalcraigsearch.com/"
+    },
+    {
+      "name": "Search Tempest",
+      "type": "url",
+      "url": "http://www.searchtempest.com/"
+    },
+    {
+      "name": "Oodle",
+      "type": "url",
+      "url": "http://www.oodle.com/"
+    },
+    {
+      "name": "Claz.org",
+      "type": "url",
+      "url": "http://claz.org/"
+    },
+    {
+      "name": "francais-a-londres.org - French Classifieds",
+      "type": "url",
+      "url": "http://francais-a-londres.org/"
     }]
   },
   {
@@ -6130,11 +6666,6 @@
         "url": "https://www.telerik.com/download/fiddler"
       },
       {
-        "name": "Burp Suite (T)",
-        "type": "url",
-        "url": "https://portswigger.net/burp/download.html"
-      },
-      {
         "name": "Page2Images (T)",
         "type": "url",
         "url": "http://www.page2images.com/URL-Live-Website-Screenshot-Generator"
@@ -6272,4 +6803,3 @@
     }]
   }]
 }
-
