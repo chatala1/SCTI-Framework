@@ -1,7 +1,7 @@
 body {
   background-color: #121212;
   font-size: 14px;
-  font-family: "Lato", sans-serif;
+  font-family: "Merriwether", serif;
   color:#fff;
   margin: 0px;
 }
@@ -13,7 +13,7 @@ body {
 
 #header {
   font-size: 18px;
-  font-weight: bold;
+  font-weight: semi-bold;
   top: 0px;
   left: 0px;
   text-align: left;
