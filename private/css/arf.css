@@ -52,12 +52,12 @@ body {
 .footnote {
   text-align:center;
   font-size:10px;
-  border-top: 1px solid #121212;
+  border-top: 1px solid #002231;
 }
 
 .footnote a {
   text-decoration:none;
-  color: #333;
+  color: #002231;
 }
 
 
