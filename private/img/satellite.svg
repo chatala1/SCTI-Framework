@@ -1,10 +1,1 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
-aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <title>Infinity</title>
-  <desc>A line styled icon from Orion Icon Library.</desc>
-  <path data-name="layer1"
-  d="M48.002 18.02a13.988 13.988 0 1 1 0 27.976m-32.002 0a13.988 13.988 0 1 1 0-27.976m0 27.976c15.998 0 16.008-27.976 32.002-27.976M37.12 40.003c2.772 3.487 6.117 5.97 10.882 5.97M16 17.996c4.788 0 8.144 2.506 10.924 6.02"
-  fill="none" stroke="#ffffff" stroke-miterlimit="10" stroke-width="4" stroke-linejoin="round"
-  stroke-linecap="round"></path>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#FFFFFF"><path d="M480-400 40-640l440-240 440 240-440 240Zm0 160L63-467l84-46 333 182 333-182 84 46-417 227Zm0 160L63-307l84-46 333 182 333-182 84 46L480-80Zm0-411 273-149-273-149-273 149 273 149Zm0-149Z"/></svg>
