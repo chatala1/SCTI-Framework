@@ -31,7 +31,7 @@ body {
 }
 
 .sat_icon {
-  width: 1.75rem;
+  width: 2rem;
   margin: 0.25rem;
   vertical-align: middle;
 }
@@ -40,24 +40,24 @@ body {
   right: 0px;
   width: 330px;
   font-size: 11px;
-  color: #333;
+  color: #0078ae;
   position: absolute;
 }
 
 .legend a {
-  color: #333;
+  color: #0078ae;
   text-decoration:none;
 }
 
 .footnote {
   text-align:center;
   font-size:10px;
-  border-top: 1px solid #002231;
+  border-top: 1px solid #0078ae;
 }
 
 .footnote a {
   text-decoration:none;
-  color: #002231;
+  color: #0078ae;
 }
 
 
