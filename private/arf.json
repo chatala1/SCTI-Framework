@@ -39,51 +39,6 @@
         "name": "OSINT Industries",
         "type": "url",
         "url": "https://osint.industries/"
-      },
-      {
-        "name": "theHarvester (T)",
-        "type": "url",
-        "url": "https://github.com/laramies/theHarvester"
-      },
-      {
-        "name": "Infoga (T)",
-        "type": "url",
-        "url": "https://github.com/m4ll0k/infoga"
-      },
-      {
-        "name": "Skymem",
-        "type": "url",
-        "url": "http://www.skymem.info/"
-      },
-      {
-        "name": "MailsHunt",
-        "type": "url",
-        "url": "https://mailshunt.com/"
-      }]
-    },
-    {
-      "name": "Common Email Formats",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Email Format",
-        "type": "url",
-        "url": "https://www.email-format.com/"
-      },
-      {
-        "name": "Toofr",
-        "type": "url",
-        "url": "https://www.toofr.com/"
-      },
-      {
-        "name": "Email Permutator",
-        "type": "url",
-        "url": "http://metricsparrow.com/toolkit/email-permutator/"
-      },
-      {
-        "name": "OneLook Reverse Dictionary and Thesaurus",
-        "type": "url",
-        "url": "http://www.onelook.com/reverse-dictionary.shtml"
       }]
     },
     {
@@ -1305,51 +1260,6 @@
         "name": "CloudFlare Watch",
         "type": "url",
         "url": "http://www.crimeflare.com/"
-      }]
-    }]
-  },
-  {
-    "name": "Images / Videos / Docs",
-    "type": "folder",
-    "children": [
-    {
-      "name": "Images",
-      "type": "folder",
-      "children": [
-      {
-        "name": "OCR",
-        "type": "folder",
-        "children": [
-        {
-          "name": "Online OCR",
-          "type": "url",
-          "url": "http://www.free-ocr.com/"
-        },
-        {
-          "name": "i2OCR",
-          "type": "url",
-          "url": "http://www.i2ocr.com/"
-        },
-        {
-          "name": "New OCR",
-          "type": "url",
-          "url": "https://www.newocr.com/"
-        },
-        {
-          "name": "Online OCR",
-          "type": "url",
-          "url": "http://www.onlineocr.net/"
-        }]
-      },
-      {
-        "name": "Tools",
-        "type": "folder",
-        "children": [
-        {
-          "name": "Creepy (T)",
-          "type": "url",
-          "url": "http://www.geocreepy.com/"
-        }]
       }]
     }]
   },
