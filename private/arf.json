@@ -1992,7 +1992,7 @@
           {
             "name": "YouTube Metadata",
             "type": "url",
-            "url": "http://www.amnestyusa.org/citizenevidence/"
+            "url": "http://www.amnestyusa.org/citizen/"
           },
           {
             "name": "TubeChop",
@@ -5736,7 +5736,7 @@
       }]
     },
     {
-      "name": "Documentation / Evidence Capture",
+      "name": "Evidence Capture Tools",
       "type": "folder",
       "children": [
       {
