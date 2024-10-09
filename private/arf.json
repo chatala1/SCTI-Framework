@@ -996,21 +996,6 @@
       "type": "folder",
       "children": [
       {
-        "name": "Public Buckets",
-        "type": "url",
-        "url": "https://buckets.grayhatwarfare.com/"
-      },
-        {
-        "name": "Online Port scanner",
-        "type": "url",
-        "url": "https://portscanner.online/"
-      },
-      {
-        "name": "CloudScraper (T)",
-        "type": "url",
-        "url": "https://github.com/jordanpotti/cloudscraper"
-      },
-      {
         "name": "Check site availability Online",
         "type": "url",
         "url": "https://upcheck.online/"
@@ -1024,16 +1009,7 @@
         "name": "Scanners",
         "type": "folder",
         "children": [
-        {
-          "name": "Sn1per (T)",
-          "type": "url",
-          "url": "https://github.com/1N3/Sn1per"
-        },
-        {
-          "name": "Online Nikto scanner",
-          "type": "url",
-          "url": "https://nikto.online/"
-        }]
+        ]
       },
       {
         "name": "Disclosure Sites",
@@ -1061,44 +1037,19 @@
       "type": "folder",
       "children": [
       {
-        "name": "Belati (T)",
+        "name": "Threat Intelligence Platform (M)",
         "type": "url",
-        "url": "https://github.com/aancw/Belati"
+        "url": "https://threatintelligenceplatform.com/report/error"
       },
       {
-        "name": "BlackWidow (T)",
+        "name": "SOC Radar",
         "type": "url",
-        "url": "https://softbytelabs.com/wp/blackwidow/"
+        "url": "https://socradar.io"
       },
       {
-        "name": "Burp Suite (T)",
+        "name": "Cloudflare Radar",
         "type": "url",
-        "url": "https://portswigger.net/burp/"
-      },
-      {
-        "name": "EyeWitness (T)",
-        "type": "url",
-        "url": "https://github.com/ChrisTruncer/EyeWitness"
-      },
-      {
-        "name": "IntelliTamper (T)",
-        "type": "url",
-        "url": "http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml"
-      },
-      {
-        "name": "Hunting-New-Registered-Domains (T)",
-        "type": "url",
-        "url": "https://github.com/gfek/Hunting-New-Registered-Domains"
-      },
-      {
-        "name": "International Domain Name Conversion Tool",
-        "type": "url",
-        "url": "http://mct.verisign-grs.com/"
-      },
-      {
-        "name": "Online Nikto scanner",
-        "type": "url",
-        "url": "https://nikto.online/"
+        "url": "https://radar.cloudflare.com/"
       }]
     },  
     {
@@ -1196,11 +1147,6 @@
         "url": "https://spyse.com/search/ip"
       },
       {
-        "name": "Shodan",
-        "type": "url",
-        "url": "https://www.shodan.io/"
-      },
-      {
         "name": "Portmap",
         "type": "url",
         "url": "https://portmap.com/"
@@ -1211,16 +1157,6 @@
         "url": "https://scans.io/"
       },
       {
-        "name": "ZoomEye",
-        "type": "url",
-        "url": "https://www.zoomeye.org/"
-      },
-      {
-        "name": "Nmap (T)",
-        "type": "url",
-        "url": "https://nmap.org/download.html"
-      },
-        {
         "name": "Online Port scanner",
         "type": "url",
         "url": "https://portscanner.online/"
@@ -1234,26 +1170,6 @@
         "name": "Criminal IP Search",
         "type": "url",
         "url": "https://www.criminalip.io/"
-      },
-      {
-        "name": "Scanless (T)",
-        "type": "url",
-        "url": "https://github.com/vesche/scanless"
-      },
-      {
-        "name": "BinaryEdge (R)",
-        "type": "url",
-        "url": "https://www.binaryedge.io/"
-      },
-      {
-        "name": "Masscan (T)",
-        "type": "url",
-        "url": "https://github.com/robertdavidgraham/masscan"
-      },
-      {
-        "name": "ODIN (R)",
-        "type": "url",
-        "url": "https://www.getodin.com/"
       }]
     },
     {
@@ -1434,72 +1350,7 @@
         "name": "CloudFlare Watch",
         "type": "url",
         "url": "http://www.crimeflare.com/"
-      },
-      {
-        "name": "CloudFail (T)",
-        "type": "url",
-        "url": "https://github.com/m0rtem/CloudFail"
       }]
-    },
-    {
-      "name": "Wireless Network Info",
-      "type": "folder",
-      "children": [
-      {
-        "name": "WiGLE: Wireless Network Mapping",
-        "type": "url",
-        "url": "https://wigle.net/"
-      },
-      {
-        "name": "OpenCellid: Database of Cell Towers",
-        "type": "url",
-        "url": "https://opencellid.org/"
-      }]
-    },
-    {
-      "name": "Network Analysis Tools",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Wireshark",
-        "type": "url",
-        "url": "https://www.wireshark.org/download.html"
-      },
-      {
-        "name": "NetworkMiner",
-        "type": "url",
-        "url": "https://www.netresec.com/?page=Networkminer"
-      },
-      {
-        "name": "Packet Total",
-        "type": "url",
-        "url": "http://www.packettotal.com/"
-      },
-      {
-        "name": "NetworkTotal",
-        "type": "url",
-        "url": "https://www.networktotal.com/"
-      }]
-    },
-    {
-      "name": "IP Loggers",
-      "type": "folder",
-      "children": [
-        {
-          "name": "Ki.tc",
-          "type": "url",
-          "url": "https://ki.tc"
-        },
-        {
-          "name": "Grabify",
-          "type": "url",
-          "url": "https://grabify.link"
-        },
-        {
-          "name": "IP Logger",
-          "type": "url",
-          "url": "https://iplogger.com/"
-        }]
     }]
   },
   {
