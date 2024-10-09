@@ -2003,7 +2003,7 @@
     }]
   },
   {
-    "name": "Social Networks",
+    "name": "SOCMINT",
     "type": "folder",
     "children": [
     {
@@ -2094,15 +2094,10 @@
         "name": "Inflact Instagram Viewer (Anonymous)",
         "type": "url",
         "url": "https://inflact.com/profiles/instagram-viewer/"
-      },
-      {
-        "name": "Osintgram (T)",
-        "type": "url",
-        "url": "https://github.com/Datalux/Osintgram"
       }]
     },
     {
-      "name": "Twitter",
+      "name": "Twitter / X",
       "type": "folder",
       "children": [
       {
@@ -2204,256 +2199,6 @@
           "type": "url",
           "url": "https://github.com/paulgb/Treeverse"
         }]
-      },
-      {
-        "name": "Pictures",
-        "type": "folder",
-        "children": [
-        {
-          "name": "Twicsy",
-          "type": "url",
-          "url": "http://twicsy.com/"
-        }]
-      },
-      {
-        "name": "Analytics",
-        "type": "folder",
-        "children": [
-        {
-          "name": "Profile",
-          "type": "folder",
-          "children": [
-          {
-            "name": "Tweepsect",
-            "type": "url",
-            "url": "http://tweepsect.com/"
-          },
-          {
-            "name": "Followerwonk Analyze",
-            "type": "url",
-            "url": "https://moz.com/followerwonk/analyze"
-          },
-          {
-            "name": "Followerwonk Compare",
-            "type": "url",
-            "url": "https://moz.com/followerwonk/compare"
-          },
-          {
-            "name": "Twitonomy",
-            "type": "url",
-            "url": "http://www.twitonomy.com/"
-          },
-          {
-            "name": "Klear",
-            "type": "url",
-            "url": "http://klear.com/"
-          },
-          {
-            "name": "Foller.me Analytics",
-            "type": "url",
-            "url": "https://foller.me/"
-          },
-          {
-            "name": "MentionMapp",
-            "type": "url",
-            "url": "http://mentionmapp.com/"
-          },
-          {
-            "name": "SleepingTime",
-            "type": "url",
-            "url": "http://sleepingtime.org/"
-          },
-          {
-            "name": "Bioischanged (M)",
-            "type": "url",
-            "url": "http://bioischanged.com/%3Ctwitterusername%3E"
-          },
-          {
-            "name": "X0rz Tweets_analyzer",
-            "type": "url",
-            "url": "https://github.com/x0rz/tweets_analyzer"
-          },
-          {
-            "name": "Social Bearing",
-            "type": "url",
-            "url": "https://socialbearing.com/"
-          }]
-        },
-        {
-          "name": "Hashtag",
-          "type": "folder",
-          "children": [
-          {
-            "name": "Tagboard",
-            "type": "url",
-            "url": "https://tagboard.com/"
-          },
-          {
-            "name": "RiteTag",
-            "type": "url",
-            "url": "https://ritetag.com/"
-          },
-          {
-            "name": "Trendsmap",
-            "type": "url",
-            "url": "http://trendsmap.com/"
-          },
-          {
-            "name": "TAGSExplorer",
-            "type": "url",
-            "url": "https://tags.hawksey.info/tagsexplorer/"
-          }]
-        },
-        {
-          "name": "Tweet Metadata",
-          "type": "url",
-          "url": "http://online.wsj.com/public/resources/documents/TweetMetadata.pdf"
-        },
-        {
-          "name": "Birdwatcher (T)",
-          "type": "url",
-          "url": "https://github.com/michenriksen/birdwatcher"
-        },
-        {
-          "name": "Tinfoleak Web",
-          "type": "url",
-          "url": "http://tinfoleak.com/"
-        },
-        {
-          "name": "Tinfoleak.py (T)",
-          "type": "url",
-          "url": "http://www.vicenteaguileradiaz.com/tools/"
-        },
-        {
-          "name": "DMI-TCAT (T)",
-          "type": "url",
-          "url": "https://github.com/digitalmethodsinitiative/dmi-tcat"
-        },
-        {
-          "name": "Twint (T)",
-          "type": "url",
-          "url": "https://github.com/twintproject/twint"
-        }]
-      },
-      {
-        "name": "Location / Mapping",
-        "type": "folder",
-        "children": [
-        {
-          "name": "GeoSocial Footprint",
-          "type": "url",
-          "url": "http://geosocialfootprint.com/"
-        },
-        {
-          "name": "TweetPaths",
-          "type": "url",
-          "url": "http://www.tweetpaths.com/maps"
-        },
-        {
-          "name": "TeachingPrivacy",
-          "type": "url",
-          "url": "http://app.teachingprivacy.com/"
-        },
-        {
-          "name": "Echosec",
-          "type": "url",
-          "url": "https://app.echosec.net/"
-        },
-        {
-          "name": "MIT Map",
-          "type": "url",
-          "url": "http://mapd.csail.mit.edu/tweetmap/"
-        },
-        {
-          "name": "Harvard Map",
-          "type": "url",
-          "url": "http://worldmap.harvard.edu/tweetmap/"
-        },
-        {
-          "name": "One Million Tweet Map",
-          "type": "url",
-          "url": "http://onemilliontweetmap.com/"
-        },
-        {
-          "name": "Creepy",
-          "type": "url",
-          "url": "http://www.geocreepy.com/"
-        },
-        {
-          "name": "Tweepsmap",
-          "type": "url",
-          "url": "http://tweepsmap.com/"
-        },
-        {
-          "name": "GeoTweet",
-          "type": "url",
-          "url": "http://geotweet.altervista.org/#"
-        },
-        {
-          "name": "MapD Tweetmap",
-          "type": "url",
-          "url": "https://www.mapd.com/demos/tweetmap/"
-        }]
-      },
-      {
-        "name": "Archive / Deleted Tweets",
-        "type": "folder",
-        "children": [
-        {
-          "name": "All My Tweets",
-          "type": "url",
-          "url": "https://www.allmytweets.net/connect/"
-        },
-        {
-          "name": "Deadbird",
-          "type": "url",
-          "url": "https://deadbird.site/"
-        },
-        {
-          "name": "Spoonbill",
-          "type": "url",
-          "url": "https://spoonbill.io"
-        },
-        {
-          "name": "TweetVacuum (T)",
-          "type": "url",
-          "url": "https://github.com/T3hUb3rK1tten/TweetVacuum"
-        }]
-      },
-      {
-        "name": "Twitter Back From The Dead",
-        "type": "url",
-        "url": "https://github.com/misterch0c/twitterBFTD"
-      }]
-    },
-    {
-      "name": "Reddit",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Reddit Metis",
-        "type": "url",
-        "url": "https://redditmetis.com/#"
-      },
-      {
-        "name": "Reddit Archive",
-        "type": "url",
-        "url": "http://www.redditarchive.com/"
-      },
-      {
-        "name": "reddit metrics",
-        "type": "url",
-        "url": "http://redditmetrics.com/"
-      },
-      {
-        "name": "subreddits",
-        "type": "url",
-        "url": "http://subreddits.org/"
-      },
-      {
-        "name": "Reddit Comment History",
-        "type": "url",
-        "url": "https://roadtolarissa.com/javascript/reddit-comment-visualizer/"
       }]
     },
     {
@@ -2477,71 +2222,6 @@
       }]
     },
     {
-      "name": "Tiktok",
-      "type": "folder",
-      "children": [
-      {
-        "name": "TikTok Viewer",
-        "type": "url",
-        "url": "https://urlebird.com//"
-      }]
-    },
-    {
-      "name": "Other Social Networks",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Myspace",
-        "type": "url",
-        "url": "https://myspace.com/"
-      },
-      {
-        "name": "Tumblr",
-        "type": "url",
-        "url": "http://www.tumblr.com/tagged/search"
-      },
-      {
-        "name": "TheHoodUp (NSFW)",
-        "type": "url",
-        "url": "http://thehoodup.com/board/"
-      },
-      {
-        "name": "BlackPlanet.com - Member Find",
-        "type": "url",
-        "url": "http://www.blackplanet.com/user_search/index.html"
-      },
-      {
-        "name": "MiGente (Latino)",
-        "type": "url",
-        "url": "http://www.migente.com/user_search/index.html"
-      },
-      {
-        "name": "Asian Avenue",
-        "type": "url",
-        "url": "http://www.asianave.com/user_search/index.html"
-      },
-      {
-        "name": "Orkut (Brazil)",
-        "type": "url",
-        "url": "https://orkut.google.com/"
-      },
-      {
-        "name": "Odnoklassniki",
-        "type": "url",
-        "url": "http://ok.ru/"
-      },
-      {
-        "name": "raven (T)",
-        "type": "url",
-        "url": "https://github.com/0x09AL/raven"
-      },
-      {
-        "name": "Delicious",
-        "type": "url",
-        "url": "https://del.icio.us/"
-      }]
-    },
-    {
       "name": "Search",
       "type": "folder",
       "children": [
@@ -2556,44 +2236,9 @@
         "url": "http://www.social-searcher.com/google-social-search/"
       },
       {
-        "name": "Periscope Search",
-        "type": "url",
-        "url": "http://www.perisearch.net/"
-      },
-      {
-        "name": "Periscope with known Username (M)",
-        "type": "url",
-        "url": "https://www.periscope.tv/%3Cusername%3E"
-      },
-      {
         "name": "SocialBlade.com",
         "type": "url",
         "url": "http://socialblade.com/"
-      },
-      {
-        "name": "Talkwalker Social Media Search (R)",
-        "type": "url",
-        "url": "https://www.talkwalker.com/social-media-analytics-search"
-      },
-      {
-        "name": "BuzzSumo Most Shared",
-        "type": "url",
-        "url": "https://app.buzzsumo.com/research/most-shared"
-      },
-      {
-        "name": "PinGroupie",
-        "type": "url",
-        "url": "http://pingroupie.com/"
-      },
-      {
-        "name": "Searchlr",
-        "type": "url",
-        "url": "http://searchlr.net/"
-      },
-      {
-        "name": "Google CSE for Telegram links",
-        "type": "url",
-        "url": "https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg"
       }]
     }]
   },
@@ -2606,29 +2251,9 @@
       "type": "folder",
       "children": [
       {
-        "name": "Family Tree Now",
-        "type": "url",
-        "url": "http://www.familytreenow.com/"
-      },
-        {
-        "name": "InfoFlow Public People Search In Chilean",
-        "type": "url",
-        "url": "https://infoflow.cloud/"
-      },
-      {
         "name": "ThatsThem",
         "type": "url",
         "url": "https://thatsthem.com/name-address-search"
-      },
-      {
-        "name": "ZoomInfo Directory",
-        "type": "url",
-        "url": "http://www.zoominfo.com/people_directory/professional_profile/A-0-1"
-      },
-      {
-        "name": "Zaba Search",
-        "type": "url",
-        "url": "http://www.zabasearch.com/"
       },
       {
         "name": "USSearch.com",
@@ -2716,26 +2341,6 @@
         "url": "http://howmanyofme.com/search/"
       },
       {
-        "name": "FamilySearch.org",
-        "type": "url",
-        "url": "https://familysearch.org/search/"
-      },
-      {
-        "name": "Ancestry.com",
-        "type": "url",
-        "url": "http://search.ancestry.com/"
-      },
-      {
-        "name": "Nuwber",
-        "type": "url",
-        "url": "https://nuwber.com/"
-      },
-      {
-        "name": "Genealogy.com",
-        "type": "url",
-        "url": "http://www.genealogy.com/"
-      },
-      {
         "name": "My Life",
         "type": "url",
         "url": "https://www.mylife.com/"
@@ -2776,46 +2381,6 @@
     "name": "Public Records",
     "type": "folder",
     "children": [
-    {
-      "name": "Property Records",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Melissa Data - Property Viewer (R)",
-        "type": "url",
-        "url": "http://www.melissadata.com/lookups/propertyviewer.asp"
-      },
-      {
-        "name": "Regrid (US Only)",
-        "type": "url",
-          "url": "https://app.regrid.com/us/"
-      },
-      {
-        "name": "Zillow",
-        "type": "url",
-        "url": "http://www.zillow.com/"
-      },
-      {
-        "name": "Emporis",
-        "type": "url",
-        "url": "https://www.emporis.com/"
-      },
-      {
-        "name": "Homefacts",
-        "type": "url",
-        "url": "https://www.homefacts.com/"
-      },
-      {
-        "name": "Neighbor Report",
-        "type": "url",
-        "url": "https://neighbor.report/"
-      },
-      {
-        "name": "Redfin",
-        "type": "url",
-        "url": "https://www.redfin.com/"
-      }]
-    },
     {
       "name": "Court / Criminal Records",
       "type": "folder",
@@ -2966,61 +2531,7 @@
         "url": "http://publicrecords.netronline.com/"
       }]
     },
-    {
-      "name": "Birth Records",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Sorted by Birth Date",
-        "type": "url",
-        "url": "http://sortedbybirthdate.com/"
-      }]
-    },
-    {
-      "name": "Death Records",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Death Check",
-        "type": "url",
-        "url": "http://www.melissadata.com/lookups/deathcheck.asp"
-      },
-      {
-        "name": "Find A Grave",
-        "type": "url",
-        "url": "http://www.findagrave.com/index.html"
-      },
-      {
-        "name": "GraveInfo",
-        "type": "url",
-        "url": "http://www.graveinfo.com/"
-      }]
-    },
-    {
-      "name": "US County Data",
-      "type": "folder",
-      "children": [
-      {
-        "name": "NACo County Explorer",
-        "type": "url",
-        "url": "http://explorer.naco.org/index.html"
-      }]
-    },
-    {
-      "name": "US Voter Records",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Voter Records",
-        "type": "url",
-        "url": "https://voterrecords.com/"
-      },
-      {
-        "name": "Voter Registration Data",
-        "type": "url",
-        "url": "http://www.blackbookonline.info/USA-Voter-Records.aspx"
-      }]
-    },
+    
     {
       "name": "Patent Records",
       "type": "folder",
@@ -3077,7 +2588,7 @@
       }]
     },
     {
-      "name": "Public Records?",
+      "name": "Public Records",
       "type": "url",
       "url": "http://publicrecords.searchsystems.net/"
     },
@@ -3090,16 +2601,6 @@
       "name": "BRB Public Records",
       "type": "url",
       "url": "http://www.brbpub.com/"
-    },
-    {
-      "name": "GOVDATA - Das Datenportal für Deutschland (German)",
-      "type": "url",
-      "url": "https://www.govdata.de/"
-    },
-    {
-      "name": "Open-Data-Portal München (German)",
-      "type": "url",
-      "url": "https://www.opengov-muenchen.de/"
     }]
   },
   {
@@ -3129,12 +2630,7 @@
         "name": "International Registries",
         "type": "url",
         "url": "https://www.gov.uk/government/publications/overseas-registries/overseas-registries"
-      }]
-    },
-    {
-      "name": "General Info & News",
-      "type": "folder",
-      "children": [
+      },
       {
         "name": "Businessweek Search",
         "type": "url",
@@ -4429,82 +3925,6 @@
     }]
   },
   {
-    "name": "Encoding / Decoding",
-    "type": "folder",
-    "children": [
-    {
-      "name": "Base64",
-      "type": "folder",
-      "children": [
-      ]
-    },
-    {
-      "name": "Barcodes / QR",
-      "type": "folder",
-      "children": [
-      {
-        "name": "ClearImage Barcode Reader",
-        "type": "url",
-        "url": "http://online-barcode-reader.inliteresearch.com/"
-      }]
-    },
-    {
-      "name": "PHP",
-      "type": "folder",
-      "children": [
-      {
-        "name": "DDecode - PHP Decoder",
-        "type": "url",
-        "url": "http://ddecode.com/phpdecoder/"
-      }]
-    },
-    {
-      "name": "XOR",
-      "type": "folder",
-      "children": [
-      {
-        "name": "Unix",
-        "type": "folder",
-        "children": [
-        {
-          "name": "XORSearch & XORStrings (T)",
-          "type": "url",
-          "url": "http://blog.didierstevens.com/programs/xorsearch/"
-        },
-        {
-          "name": "xortool (T)",
-          "type": "url",
-          "url": "https://github.com/hellman/xortool"
-        },
-        {
-          "name": "unxor (T)",
-          "type": "url",
-          "url": "https://github.com/tomchop/unxor"
-        }]
-      },
-      {
-        "name": "Windows",
-        "type": "folder",
-        "children": [
-        {
-          "name": "Kahu Converter Utilities (T)",
-          "type": "url",
-          "url": "http://www.kahusecurity.com/tools/"
-        }]
-      }]
-    },
-    {
-      "name": "CyberChef",
-      "type": "url",
-      "url": "https://gchq.github.io/CyberChef/"
-    },
-    {
-      "name": "Functions Online",
-      "type": "url",
-      "url": "https://www.functions-online.com/"
-    }]
-  },
-  {
     "name": "Tools",
     "type": "folder",
     "children": [
@@ -5110,4 +4530,3 @@
     }]
   }]
 }
-
