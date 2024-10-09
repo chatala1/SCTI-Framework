@@ -1,1 +1,1 @@
-# SCTI-Framework
+# SCRI-Framework
