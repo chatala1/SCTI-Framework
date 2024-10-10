@@ -39,6 +39,7 @@ body {
   padding: 0px 5px;
   text-align: center;
   background-color: #0078ae;
+  overflow: overlay;
 }
 
 .footnote {
