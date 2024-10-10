@@ -2,36 +2,43 @@ body {
   background-color: #002231;
   font-size: 14px;
   font-family: "Open Sans", sans-serif;
-  color:#fff;
+  color: #fff;
   margin: 0px;
 }
 
 #body {
   margin: 0 auto;
   position: relative;
+  max-width: 1200px;
+  padding: 0 20px;
 }
 
 #header {
   top: 0px;
   left: 0px;
   text-align: left;
-  padding: 10px 180px;
+  padding: 10px 20px;
   margin: 0px;
   overflow: visible;
   background-color: #002b47;
   filter: drop-shadow(0px 0px 4px #010101);
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
 }
 
 #header p {
   font-size: 18px;
   font-weight: semi-bold;
   font-family: "Merriweather", serif;
+  margin: 0;
 }
 
 #footer {
-  margin:0 auto;
-  padding:5px;
+  margin: 0 auto;
+  padding: 5px;
+  text-align: center;
 }
 
 .sat_icon {
@@ -41,29 +48,29 @@ body {
 }
 
 .legend {
-  right: 0px;
-  width: 330px;
+  width: 100%;
   font-size: 11px;
   color: #0078ae;
-  position: absolute;
+  margin: 10px 0;
+  text-align: center;
 }
 
 .legend a {
   color: #0078ae;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 .footnote {
-  text-align:center;
-  font-size:10px;
+  text-align: center;
+  font-size: 10px;
   border-top: 1px solid #c0c2c4;
+  padding-top: 10px;
 }
 
 .footnote a {
-  text-decoration:none;
+  text-decoration: none;
   color: #c0c2c4;
 }
-
 
 .node {
   cursor: pointer;
@@ -86,6 +93,7 @@ path.link {
   stroke: #4b5563;
   stroke-width: 1px;
 }
+
 .merriweather-light {
   font-family: "Merriweather", serif;
   font-weight: 300;
@@ -134,3 +142,26 @@ path.link {
   font-style: italic;
 }
 
+@media screen and (min-width: 600px) {
+  #header {
+    padding: 10px 40px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #header {
+    padding: 10px 60px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #header {
+    padding: 10px 80px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #header {
+    padding: 10px 100px;
+  }
+}
