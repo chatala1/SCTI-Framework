@@ -64,14 +64,13 @@ body {
   width: 100%;
   font-size: 11px;
   color: #fff;
-  margin: 10px 150px;
-  text-align: right;
+  margin: 15px auto;
+  text-align: left;
 }
 
 .legend a {
   color: #fff;
   text-decoration: none;
-  text-align: center;
 }
 
 .node {
