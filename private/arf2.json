@@ -1,1 +1,227 @@
+{
+  "name": "Business Directories and Research",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Better Business Bureau",
+      "type": "url",
+      "url": "http://www.bbb.org"
+    },
+    {
+      "name": "Bizeurope",
+      "type": "url",
+      "url": "http://www.bizeurope.com"
+    },
+    {
+      "name": "Business Source",
+      "type": "url",
+      "url": "https://www.ebscohost.com/academic/business-source-complete"
+    },
+    {
+      "name": "Bureau Van Dijk",
+      "type": "url",
+      "url": "http://www.bvdinfo.com"
+    },
+    {
+      "name": "Canadian Business Research",
+      "type": "url",
+      "url": "https://www.canada.ca/en/services/business/research.html"
+    },
+    {
+      "name": "Company Research Resources by Country Comparably",
+      "type": "url",
+      "url": "https://www.comparably.com"
+    },
+    {
+      "name": "Corporate Information",
+      "type": "url",
+      "url": "http://www.corporateinformation.com"
+    },
+    {
+      "name": "CrunchBase",
+      "type": "url",
+      "url": "https://www.crunchbase.com"
+    },
+    {
+      "name": "EDGAR Online",
+      "type": "url",
+      "url": "http://www.edgar-online.com"
+    },
+    {
+      "name": "Europages",
+      "type": "url",
+      "url": "http://www.europages.co.uk"
+    },
+    {
+      "name": "Ezilon",
+      "type": "url",
+      "url": "http://www.ezilon.com"
+    },
+    {
+      "name": "Factiva",
+      "type": "url",
+      "url": "https://global.factiva.com"
+    },
+    {
+      "name": "Forbes Global 2000",
+      "type": "url",
+      "url": "http://www.forbes.com/global2000/"
+    },
+    {
+      "name": "globalEdge",
+      "type": "url",
+      "url": "http://globaledge.msu.edu"
+    },
+    {
+      "name": "GuideStar",
+      "type": "url",
+      "url": "http://www.guidestar.org"
+    },
+    {
+      "name": "Inc. 5000",
+      "type": "url",
+      "url": "http://www.inc.com/inc5000"
+    },
+    {
+      "name": "Plunkett Research",
+      "type": "url",
+      "url": "http://www.plunkettresearchonline.com"
+    },
+    {
+      "name": "Scoot",
+      "type": "url",
+      "url": "http://www.scoot.co.uk"
+    }
+  ]
+},
+{
+  "name": "Company Registration and Legal Information",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Company Registration Round the World",
+      "type": "url",
+      "url": "http://www.commercial-register.sg.ch/home/worldwide.html"
+    },
+    {
+      "name": "Knowledge guide to international company registration",
+      "type": "url",
+      "url": "http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration"
+    },
+    {
+      "name": "National Company Registers",
+      "type": "url",
+      "url": "https://en.wikipedia.org/wiki/List_of_company_registers"
+    },
+    {
+      "name": "Overseas Company Registers",
+      "type": "url",
+      "url": "https://www.gov.uk/government/publications/overseas-registries/overseas-registries"
+    }
+  ]
+},
+{
+  "name": "Competitive Analysis and Market Intelligence",
+  "type": "folder",
+  "children": [
+    {
+      "name": "CompeteShark",
+      "type": "url",
+      "url": "http://competeshark.com"
+    },
+    {
+      "name": "iSpionage",
+      "type": "url",
+      "url": "https://www.ispionage.com"
+    },
+    {
+      "name": "SEMrush",
+      "type": "url",
+      "url": "https://www.semrush.com"
+    },
+    {
+      "name": "Serpstat",
+      "type": "url",
+      "url": "https://serpstat.com"
+    },
+    {
+      "name": "SpyFu",
+      "type": "url",
+      "url": "http://www.spyfu.com"
+    }
+  ]
+},
+{
+  "name": "Professional Networking and Job Search",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Glassdoor",
+      "type": "url",
+      "url": "https://www.glassdoor.com"
+    },
+    {
+      "name": "Linkedin",
+      "type": "url",
+      "url": "https://www.linkedin.com"
+    },
+    {
+      "name": "Xing",
+      "type": "url",
+      "url": "http://www.xing.com"
+    }
+  ]
+},
+{
+  "name": "Legal and Court Records",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Judyrecords",
+      "type": "url",
+      "url": "https://www.judyrecords.com"
+    },
+    {
+      "name": "UniCourt",
+      "type": "url",
+      "url": "https://unicourt.com"
+    },
+    {
+      "name": "Caselaw Access Project",
+      "type": "url",
+      "url": "https://case.law"
+    }
+  ]
+},
+{
+  "name": "Miscellaneous",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Notablist",
+      "type": "url",
+      "url": "https://www.notablist.com"
+    },
+    {
+      "name": "BrownBook",
+      "type": "url",
+      "url": "https://www.brownbook.net"
+    },
+    {
+      "name": "CorporationWiki",
+      "type": "url",
+      "url": "https://www.corporationwiki.com"
+    },
+    {
+      "name": "GoodFirms",
+      "type": "url",
+      "url": "https://www.goodfirms.co"
+    },
+    {
+      "name": "YouControl",
+      "type": "url",
+      "url": "https://youcontrol.com.ua"
+    }
+  ]
+}
 
