@@ -46,6 +46,11 @@
       "type": "folder",
       "children": [
       {
+        "name": "Reacher Github (T)",
+        "type": "url",
+        "url": "https://github.com/reacherhq/check-if-email-exists"
+      },
+      {
         "name": "Reacher Demo",
         "type": "url",
         "url": "https://reacher.email"
@@ -216,6 +221,11 @@
         "url": "https://synapsint.com"
       },
       {
+        "name": "Aquatone (T)",
+        "type": "url",
+        "url": "https://github.com/michenriksen/aquatone"
+      },
+      {
         "name": "FindSubDomains",
         "type": "url",
         "url": "https://findsubdomains.com/"
@@ -226,9 +236,44 @@
         "url": "https://www.google.com/?gws_rd=ssl#q=site:%3Cdomain.com%3E"
       },
       {
+        "name": "Recon-ng (T)",
+        "type": "url",
+        "url": "https://github.com/lanmaster53/recon-ng"
+      },
+      {
         "name": "XRay",
         "type": "url",
         "url": "https://github.com/evilsocket/xray"
+      },
+      {
+        "name": "DNS Recon (T)",
+        "type": "url",
+        "url": "https://github.com/darkoperator/dnsrecon"
+      },
+      {
+        "name": "Gobuster (T)",
+        "type": "url",
+        "url": "https://github.com/OJ/gobuster"
+      },
+      {
+        "name": "Fierce Domain Scanner (T)",
+        "type": "url",
+        "url": "https://github.com/davidpepper/fierce-domain-scanner"
+      },
+      {
+        "name": "Bluto (T)",
+        "type": "url",
+        "url": "https://github.com/darryllane/Bluto"
+      },
+      {
+        "name": "OWASP Maryam (T)",
+        "type": "url",
+        "url": "https://github.com/saeeddhqan/Maryam"
+      },
+      {
+        "name": "theHarvester (T)",
+        "type": "url",
+        "url": "https://github.com/laramies/theHarvester"
       },
       {
         "name": "Pentest-tools.com Subdomains",
@@ -244,12 +289,47 @@
         "name": "SOC Radar",
         "type": "url",
         "url": "https://socradar.io"
+      },      
+      {
+        "name": "SecLists DNS Subdomains (T)",
+        "type": "url",
+        "url": "https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS"
+      },      
+      {
+        "name": "dnspop (T)",
+        "type": "url",
+        "url": "https://github.com/bitquark/dnspop"
+      },
+      {
+        "name": "gdns (T)",
+        "type": "url",
+        "url": "https://github.com/hrbrmstr/gdns"
+      },
+      {
+        "name": "assetnote (T)",
+        "type": "url",
+        "url": "https://github.com/infosec-au/assetnote"
+      },
+      {
+        "name": "Sublist3r",
+        "type": "url",
+        "url": "https://github.com/aboul3la/Sublist3r"
+      },
+      {
+        "name": "AltDNS (T)",
+        "type": "url",
+        "url": "https://github.com/infosec-au/altdns"
       }]
     },
     {
       "name": "Discovery",
       "type": "folder",
       "children": [
+      {
+        "name": "Online Nikto scanner",
+        "type": "url",
+        "url": "https://nikto.online/"
+      },
       {
         "name": "urlscan.io",
         "type": "url",
@@ -303,12 +383,17 @@
       {
         "name": "Censys",
         "type": "url",
-        "url": "https://search.censys.io/"
+        "url": "https://censys.io/"
       },
       {
         "name": "crt.sh - Certificate Search",
         "type": "url",
         "url": "https://crt.sh/?"
+      },
+      {
+        "name": "certgraph (T)",
+        "type": "url",
+        "url": "https://github.com/lanrat/certgraph"
       },
       {
         "name": "ODIN (R)",
@@ -571,7 +656,7 @@
         "url": "https://www.sitesleuth.io/"
       },
       {
-        "name": "Wappalyzer (X)",
+        "name": "Wappalyzer (T)",
         "type": "url",
         "url": "https://wappalyzer.com/"
       },
@@ -956,7 +1041,6 @@
         "type": "url",
         "url": "https://www.ipaddress.my/"
       }]
-     }]
     },
     {
       "name": "Host / Port Discovery",
@@ -966,6 +1050,11 @@
         "name": "urlscan.io",
         "type": "url",
         "url": "https://urlscan.io/search/#*"
+      },
+      {
+        "name": "Spyse",
+        "type": "url",
+        "url": "https://spyse.com/search/ip"
       },
       {
         "name": "Portmap",
@@ -2260,9 +2349,29 @@
         "url": "https://www.startpage.com/"
       },
       {
+        "name": "Yandex",
+        "type": "url",
+        "url": "https://www.yandex.com/"
+      },
+      {
+        "name": "Baidu",
+        "type": "url",
+        "url": "http://www.baidu.com/"
+      },
+      {
         "name": "Google Advanced Search",
         "type": "url",
         "url": "https://www.google.com/advanced_search"
+      },
+      {
+        "name": "iBoogie",
+        "type": "url",
+        "url": "http://www.iboogie.com/"
+      },
+      {
+        "name": "iZito",
+        "type": "url",
+        "url": "http://www.izito.com/"
       },
       {
         "name": "Bing vs. Google",
@@ -2570,6 +2679,16 @@
         "url": "https://millionshort.com/"
       },
       {
+        "name": "SearchDiggity (T)",
+        "type": "url",
+        "url": "http://www.bishopfox.com/download/405/"
+      },
+      {
+        "name": "Scanner-inurlbr (T)",
+        "type": "url",
+        "url": "https://github.com/googleinurl/SCANNER-INURLBR"
+      },
+      {
         "name": "Google Alerts",
         "type": "url",
         "url": "https://www.google.com/alerts#"
@@ -2578,6 +2697,11 @@
         "name": "Google Custom Search Engine",
         "type": "url",
         "url": "https://cse.google.com/cse/"
+      },
+      {
+        "name": "pagodo - Passive Google Dork (T)",
+        "type": "url",
+        "url": "https://github.com/opsdisk/pagodo"
       },
       {
         "name": "Talkwalker Alerts",
@@ -2743,6 +2867,11 @@
         "name": "Browsershots",
         "type": "url",
         "url": "http://browsershots.org/"
+      },
+      {
+        "name": "Waybackpack (T)",
+        "type": "url",
+        "url": "https://github.com/jsvine/waybackpack"
       }]
     },
     {
@@ -2899,6 +3028,16 @@
       "name": "Metagoofil (T)",
       "type": "url",
       "url": "http://www.edge-security.com/metagoofil.php"
+    },
+    {
+      "name": "FOCA (T)",
+      "type": "url",
+      "url": "https://github.com/ElevenPaths/FOCA"
+    },
+    {
+      "name": "CodeTwo Outlook Export (T)",
+      "type": "url",
+      "url": "http://www.codetwo.com/freeware/outlook-export/"
     }]
   },
   {
@@ -2912,13 +3051,48 @@
     }]
   },
   {
-    "name": "Research and Reconnaissance",
+    "name": "Tools",
     "type": "folder",
     "children": [
     {
       "name": "OSINT Automation",
       "type": "folder",
       "children": [
+      {
+        "name": "DataSploit (T)",
+        "type": "url",
+        "url": "https://github.com/datasploit/datasploit/"
+      },
+      {
+        "name": "SpiderFoot (T)",
+        "type": "url",
+        "url": "http://www.spiderfoot.net/"
+      },
+      {
+        "name": "ThreatPipes (T)",
+        "type": "url",
+        "url": "https://www.threatpipes.com"
+      },
+      {
+        "name": "Omnibus (T)",
+        "type": "url",
+        "url": "https://github.com/InQuest/omnibus"
+      },
+      {
+        "name": "Photon (T)",
+        "type": "url",
+        "url": "https://github.com/s0md3v/Photon"
+      },
+      {
+        "name": "ReconDog (T)",
+        "type": "url",
+        "url": "https://github.com/s0md3v/ReconDog"
+      },
+      {
+        "name": "IFTTT",
+        "type": "url",
+        "url": "https://ifttt.com/"
+      },
       {
         "name": "Stringify",
         "type": "url",
@@ -2933,6 +3107,11 @@
         "name": "OSRFramework (T)",
         "type": "url",
         "url": "https://github.com/i3visio/osrframework"
+      },
+      {
+        "name": "Inquisitor (T)",
+        "type": "url",
+        "url": "https://github.com/penafieljlm/inquisitor"
       },
       {
         "name": "AutoOSINT (T)",
@@ -2950,6 +3129,16 @@
         "url": "https://github.com/SharadKumar97/OSINT-SPY"
       },
       {
+        "name": "Microsoft Flow",
+        "type": "url",
+        "url": "https://flow.microsoft.com/en-us/"
+      },
+      {
+        "name": "PhoneInfoga (T)",
+        "type": "url",
+        "url": "https://github.com/sundowndev/PhoneInfoga"
+      },
+      {
           "name": "IntelligenceX",
           "type": "url",
           "url": "https://intelx.io/"
@@ -2960,6 +3149,42 @@
         "url": "https://analystresearchtools.com"
       }]
     },
+    {
+      "name": "Pentesting Recon",
+      "type": "folder",
+      "children": [
+      {
+        "name": "Low Hanging Fruit (T)",
+        "type": "url",
+        "url": "https://github.com/blindfuzzy/LHF"
+      }]
+    },
+     {
+      "name": "Wordlist",
+      "type": "folder",
+      "children": [
+      {
+        "name": "OWASP D4N155 (T)",
+        "type": "url",
+        "url": "https://github.com/OWASP/D4N155"
+      }]
+    },
+    {
+      "name": "Paterva / Maltego (T)",
+      "type": "url",
+      "url": "https://www.maltego.com/"
+    },
+    {
+      "name": "Overview",
+      "type": "url",
+      "url": "https://www.overviewdocs.com/"
+    },
+    {
+      "name": "Online Nikto scanner",
+      "type": "url",
+      "url": "https://nikto.online/"
+    }]
+  },
   {
     "name": "AI Tools",
     "type": "folder",
