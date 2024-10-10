@@ -38,6 +38,18 @@ body {
   margin: 0 auto;
   padding: 0px 5px;
   text-align: center;
+  background-color: #0078ae;
+}
+
+.footnote {
+  text-align: center;
+  font-size: 10px;
+  padding-top: 10px;
+}
+
+.footnote a {
+  text-decoration: none;
+  color: #0078ae;
 }
 
 .sat_icon {
@@ -50,26 +62,14 @@ body {
 .legend {
   width: 100%;
   font-size: 11px;
-  color: #0078ae;
+  color: #fff;
   margin: 10px 0;
   text-align: center;
 }
 
 .legend a {
-  color: #0078ae;
+  color: #fff;
   text-decoration: none;
-}
-
-.footnote {
-  text-align: center;
-  font-size: 10px;
-  border-top: 1px solid #c0c2c4;
-  padding-top: 10px;
-}
-
-.footnote a {
-  text-decoration: none;
-  color: #c0c2c4;
 }
 
 .node {
