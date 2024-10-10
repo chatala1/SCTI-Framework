@@ -21,8 +21,7 @@ body {
   overflow: visible;
   background-color: #002b47;
   filter: drop-shadow(0px 0px 2px #000a1a);
-  display: flex;
-  flex-wrap: wrap;
+  display: block;
   align-items: left;
 }
 
@@ -31,17 +30,21 @@ body {
   font-weight: semi-bold;
   font-family: "Merriweather", serif;
   margin: 0;
+  vertical-align:middle;
+  display:inline-block;
 }
 
 #footer {
   margin: 0 auto;
-  padding: 5px;
+  padding: 0px 5px;
   text-align: center;
+  background-color: #0078ae;
 }
 
 .sat_icon {
   width: 2rem;
   margin: 0.25rem;
+  padding: 2px;
   vertical-align: middle;
 }
 
