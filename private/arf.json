@@ -1791,6 +1791,21 @@
     "name": "SOCMINT",
     "type": "folder",
     "children": [
+     {
+      "name": "C-SUITE Profiles",
+      "type": "folder",
+      "children": [
+      {
+        "name": "LinkedIn",
+        "type": "url",
+        "url": "https://www.linkedin.com/"
+      },
+      {
+        "name": "Indeed",
+        "type": "url",
+        "url": "http://www.indeed.com/"
+      }]
+    },
     {
       "name": "Facebook",
       "type": "folder",
@@ -2163,29 +2178,28 @@
     }]
   },
   {
-    "name": "Public Records",
+    "name": "Business Records",
     "type": "folder",
     "children": [
-    
     {
-      "name": "Public Records",
-      "type": "url",
-      "url": "http://publicrecords.searchsystems.net/"
-    },
-    {
-      "name": "The World Bank Open Data Catalog",
-      "type": "url",
-      "url": "http://datacatalog.worldbank.org/"
-    },
-    {
-      "name": "BRB Public Records",
-      "type": "url",
-      "url": "http://www.brbpub.com/"
-    },
-    {
-      "name": "Business Records",
+      "name": "Open Data Records",
       "type": "folder",
       "children": [
+        {
+          "name": "Public Records Search Systems",
+          "type": "url",
+          "url": "http://publicrecords.searchsystems.net/"
+        },
+        {
+          "name": "The World Bank Open Data Catalog",
+          "type": "url",
+          "url": "http://datacatalog.worldbank.org/"
+        },
+        {
+          "name": "BRB Public Records",
+          "type": "url",
+          "url": "http://www.brbpub.com/"
+        },
       {
         "name": "Annual Reports",
         "type": "folder",
@@ -2381,21 +2395,6 @@
           "url": "https://www.crunchbase.com/#/home/index"
         }]
     }]
-    },
-    {
-      "name": "C-SUITE Profiles",
-      "type": "folder",
-      "children": [
-      {
-        "name": "LinkedIn",
-        "type": "url",
-        "url": "https://www.linkedin.com/"
-      },
-      {
-        "name": "Indeed",
-        "type": "url",
-        "url": "http://www.indeed.com/"
-      }]
     },
     {
       "name": "Additional Resources",
