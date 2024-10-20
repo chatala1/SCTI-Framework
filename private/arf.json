@@ -1570,11 +1570,11 @@
     }]
   },
   {
-    "name": "People Search Engines",
+    "name": "HUMINT Search",
     "type": "folder",
     "children": [
     {
-      "name": "General People Search",
+      "name": "Population Databases",
       "type": "folder",
       "children": [
       {
