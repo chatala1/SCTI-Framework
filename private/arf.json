@@ -118,6 +118,26 @@
     }]
   },
   {
+    "name": "Scanners",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Passive Scans",
+        "type": "folder",
+        "children": [
+          {
+            "name": "UrlScan.io",
+            "type": "url",
+            "url": "https://urlscan.io"
+          },
+          {
+            "name": "Cloudflare Radar",
+            "type": "url",
+            "url": "https://radar.cloudflare.com/"
+          }]
+      }]
+  },
+  {
     "name": "Domain Name",
     "type": "folder",
     "children": [
