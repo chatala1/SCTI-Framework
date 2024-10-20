@@ -740,59 +740,9 @@
         "url": "https://synapsint.com"
       },
       {
-        "name": "Aquatone (T)",
-        "type": "url",
-        "url": "https://github.com/michenriksen/aquatone"
-      },
-      {
         "name": "FindSubDomains",
         "type": "url",
         "url": "https://findsubdomains.com/"
-      },
-      {
-        "name": "Google Subdomains (D)",
-        "type": "url",
-        "url": "https://www.google.com/?gws_rd=ssl#q=site:%3Cdomain.com%3E"
-      },
-      {
-        "name": "Recon-ng (T)",
-        "type": "url",
-        "url": "https://github.com/lanmaster53/recon-ng"
-      },
-      {
-        "name": "XRay",
-        "type": "url",
-        "url": "https://github.com/evilsocket/xray"
-      },
-      {
-        "name": "DNS Recon (T)",
-        "type": "url",
-        "url": "https://github.com/darkoperator/dnsrecon"
-      },
-      {
-        "name": "Gobuster (T)",
-        "type": "url",
-        "url": "https://github.com/OJ/gobuster"
-      },
-      {
-        "name": "Fierce Domain Scanner (T)",
-        "type": "url",
-        "url": "https://github.com/davidpepper/fierce-domain-scanner"
-      },
-      {
-        "name": "Bluto (T)",
-        "type": "url",
-        "url": "https://github.com/darryllane/Bluto"
-      },
-      {
-        "name": "OWASP Maryam (T)",
-        "type": "url",
-        "url": "https://github.com/saeeddhqan/Maryam"
-      },
-      {
-        "name": "theHarvester (T)",
-        "type": "url",
-        "url": "https://github.com/laramies/theHarvester"
       },
       {
         "name": "Pentest-tools.com Subdomains",
@@ -808,47 +758,12 @@
         "name": "SOC Radar",
         "type": "url",
         "url": "https://socradar.io"
-      },      
-      {
-        "name": "SecLists DNS Subdomains (T)",
-        "type": "url",
-        "url": "https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS"
-      },      
-      {
-        "name": "dnspop (T)",
-        "type": "url",
-        "url": "https://github.com/bitquark/dnspop"
-      },
-      {
-        "name": "gdns (T)",
-        "type": "url",
-        "url": "https://github.com/hrbrmstr/gdns"
-      },
-      {
-        "name": "assetnote (T)",
-        "type": "url",
-        "url": "https://github.com/infosec-au/assetnote"
-      },
-      {
-        "name": "Sublist3r",
-        "type": "url",
-        "url": "https://github.com/aboul3la/Sublist3r"
-      },
-      {
-        "name": "AltDNS (T)",
-        "type": "url",
-        "url": "https://github.com/infosec-au/altdns"
       }]
     },
     {
       "name": "Discovery",
       "type": "folder",
       "children": [
-      {
-        "name": "Online Nikto scanner",
-        "type": "url",
-        "url": "https://nikto.online/"
-      },
       {
         "name": "urlscan.io",
         "type": "url",
