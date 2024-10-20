@@ -3125,7 +3125,28 @@
   {
     "name": "Tools",
     "type": "folder",
-    "children": [
+    "children": [ 
+    {
+      "name":"AI Tools",
+      "type":"folder",
+      "children":[
+        {
+          "name": "ChatGPT (R)",
+          "type": "url",
+          "url": "https://chatgpt.com/"
+        },
+        {
+          "name": "Microsoft Copilot (R)",
+          "type": "url",
+          "url": "https://copilot.github.com/"
+        },
+        {
+          "name": "Google Gemeni (R)",
+          "type": "url", 
+          "url": "https://gemini.google.com/"
+        }
+      ]
+    },
     {
       "name": "OSINT Automation",
       "type": "folder",
@@ -3257,27 +3278,6 @@
       "url": "https://nikto.online/"
     }]
   },
-  {
-    "name": "AI Tools",
-    "type": "folder",
-    "children": [
-    {
-      "name": "ChatGPT (R)",
-      "type": "url",
-      "url": "https://chatgpt.com/"
-    },
-    {
-      "name": "Microsoft Copilot (R)",
-      "type": "url",
-      "url": "https://copilot.github.com/"
-    },
-    {
-      "name": "Google Gemeni (R)",
-      "type": "url", 
-      "url": "https://gemini.google.com/"
-    }
-  ]
-  },  
   {
     "name": "Exploits & Advisories",
     "type": "folder",
