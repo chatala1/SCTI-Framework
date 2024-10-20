@@ -122,13 +122,59 @@
     "type": "folder",
     "children": [
       {
-        "name": "Passive Scans",
+        "name": "Active Scanners",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Shodan",
+            "type": "url",
+            "url": "https://www.shodan.io/"
+          }
+        ]
+      },
+      {
+        "name": "Passive Scanners",
         "type": "folder",
         "children": [
           {
             "name": "UrlScan.io",
             "type": "url",
             "url": "https://urlscan.io"
+          },
+          {
+            "name": "Pen-Test Tools",
+            "type": "url",
+            "url": "https://pentest-tools.com"
+          },
+          {
+            "name": "Threat Intelligence Platform (M)",
+            "type": "url",
+            "url": "https://threatintelligenceplatform.com/report/error"
+          },
+          {
+            "name": "SOC Radar",
+            "type": "url",
+            "url": "https://socradar.io"
+          },
+          {
+            "name": "ImmuniWeb",
+            "type": "url",
+            "url": "https://www.immuniweb.com/websec/"
+          },
+          {
+            "name": "OWASP ZAP Online",
+            "type": "url",
+            "url": "https://owasp.org/www-project-zap/"
+          },
+          {
+            "name": "SecurityHeaders.io",
+            "type": "url",
+            "url": "https://securityheaders.io/"
+          },
+          {
+            "name": "SiteLock",
+            "type": "url",
+            "url": "https://www.sitelock.com/free-website-scan/"
           },
           {
             "name": "Cloudflare Radar",
