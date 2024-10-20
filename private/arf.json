@@ -328,6 +328,17 @@
           }]
       },
       {
+        "name": "Counter-Terror Intelligence",
+        "type": "folder",
+        "children":[
+          {
+            "name": "Global Terrorism Database",
+            "type":"url",
+            "url": "https://start.umd.edu/gtd/"
+          }
+        ]
+      },
+      {
         "name": "Exploits & Advisories",
         "type": "folder",
         "children": [
@@ -3169,31 +3180,6 @@
     }]
   },
   {
-    "name": "Metadata",
-    "type": "folder",
-    "children": [
-    {
-      "name": "ExifTool (T)",
-      "type": "url",
-      "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/"
-    },
-    {
-      "name": "Metagoofil (T)",
-      "type": "url",
-      "url": "http://www.edge-security.com/metagoofil.php"
-    },
-    {
-      "name": "FOCA (T)",
-      "type": "url",
-      "url": "https://github.com/ElevenPaths/FOCA"
-    },
-    {
-      "name": "CodeTwo Outlook Export (T)",
-      "type": "url",
-      "url": "http://www.codetwo.com/freeware/outlook-export/"
-    }]
-  },
-  {
     "name": "Terrorism",
     "type": "folder",
     "children": [
@@ -3225,6 +3211,32 @@
           "name": "Google Gemeni (R)",
           "type": "url", 
           "url": "https://gemini.google.com/"
+        }
+      ]
+    },
+    {
+      "name": "Metadata",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ExifTool (T)",
+          "type": "url",
+          "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/"
+        },
+        {
+          "name": "Metagoofil (T)",
+          "type": "url",
+          "url": "http://www.edge-security.com/metagoofil.php"
+        },
+        {
+          "name": "FOCA (T)",
+          "type": "url",
+          "url": "https://github.com/ElevenPaths/FOCA"
+        },
+        {
+          "name": "CodeTwo Outlook Export (T)",
+          "type": "url",
+          "url": "http://www.codetwo.com/freeware/outlook-export/"
         }
       ]
     },
