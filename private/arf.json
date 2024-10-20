@@ -38,6 +38,26 @@
               "name": "Ashley Madison Emails",
               "type": "url",
               "url": "https://ashley.cynic.al/"
+            },
+            {
+              "name": "Databases.Today",
+              "type": "url",
+              "url": "https://databases.today/"
+            },
+            {
+              "name": "Breach Directory",
+              "type": "url",
+              "url": "https://breachdirectory.com/search"
+            },
+            {
+              "name": "Third-Party Data Breaches",
+              "type": "url",
+              "url": "https://blackkite.com/data-breaches-caused-by-third-parties/"
+            },
+            {
+              "name": "Privacy Rights Clearinghouse",
+              "type": "url",
+              "url": "https://privacyrights.org/data-breaches"
             }]
           },
         {
@@ -123,31 +143,6 @@
             "name": "Waybackpack (T)",
             "type": "url",
             "url": "https://github.com/jsvine/waybackpack"
-          }]
-        },
-        {
-          "name": "Data Leaks",
-          "type": "folder",
-          "children": [
-          {
-            "name": "Databases.Today",
-            "type": "url",
-            "url": "https://databases.today/"
-          },
-          {
-            "name": "Breach Directory",
-            "type": "url",
-            "url": "https://breachdirectory.com/search"
-          },
-          {
-            "name": "Third-Party Data Breaches",
-            "type": "url",
-            "url": "https://blackkite.com/data-breaches-caused-by-third-parties/"
-          },
-          {
-            "name": "Privacy Rights Clearinghouse",
-            "type": "url",
-            "url": "https://privacyrights.org/data-breaches"
           }]
         },
         {
