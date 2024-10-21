@@ -6,11 +6,7 @@
     "name": "Databases",
     "type":"folder",
     "children":[
-      {
-        "name": "Archives",
-        "type": "folder",
-        "children": [
-          {
+        {
             "name": "Breach Data",
             "type": "folder",
             "children": [
@@ -184,8 +180,7 @@
             "type": "url",
             "url": "http://chroniclingamerica.loc.gov/search/titles/"
           }]
-        }]
-      },
+        },
       {
         "name": "Domain Blacklists",
         "type": "folder",
