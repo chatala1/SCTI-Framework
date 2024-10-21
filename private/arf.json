@@ -581,9 +581,73 @@
     ]
   },
   {
-    "name": "Domain Name",
+    "name": "Domain Research",
     "type": "folder",
     "children": [
+        {
+            "name": "IP & MAC Address",
+            "type": "folder",
+            "children": [
+            {
+              "name": "Geolocation",
+              "type": "folder",
+              "children": [
+              {
+                "name": "MaxMind Demo",
+                "type": "url",
+                "url": "https://www.maxmind.com/en/home"
+              },
+              {
+                "name": "IPv4/IPv6 lists by country code",
+                "type": "url",
+                "url": "http://ipverse.net/"
+              },
+              {
+                "name": "IP2Location.com",
+                "type": "url",
+                "url": "https://www.ip2location.com/demo"
+              },
+              {
+                "name": "IP Fingerprints",
+                "type": "url",
+                "url": "http://www.ipfingerprints.com/"
+              },
+              {
+                "name": "DB-IP",
+                "type": "url",
+                "url": "https://db-ip.com/"
+              },
+              {
+                "name": "IP Location Finder",
+                "type": "url",
+                "url": "https://www.iplocation.net/"
+              },
+              {
+                "name": "Info Sniper",
+                "type": "url",
+                "url": "http://www.infosniper.net/"
+              },
+              {
+                "name": "utrace",
+                "type": "url",
+                "url": "http://en.utrace.de/"
+              },
+              {
+                "name": "InfobyIP.com",
+                "type": "url",
+                "url": "https://www.infobyip.com/"
+              },
+              {
+                "name": "ipTRACKERonline",
+                "type": "url",
+                "url": "https://www.iptrackeronline.com/"
+              },
+              {
+                "name": "My IP Address",
+                "type": "url",
+                "url": "https://www.ipaddress.my/"
+              }]
+            },
     {
       "name": "Whois Records",
       "type": "folder",
@@ -1270,70 +1334,6 @@
       }]
     }]
   },
-  {
-    "name": "IP & MAC Address",
-    "type": "folder",
-    "children": [
-    {
-      "name": "Geolocation",
-      "type": "folder",
-      "children": [
-      {
-        "name": "MaxMind Demo",
-        "type": "url",
-        "url": "https://www.maxmind.com/en/home"
-      },
-      {
-        "name": "IPv4/IPv6 lists by country code",
-        "type": "url",
-        "url": "http://ipverse.net/"
-      },
-      {
-        "name": "IP2Location.com",
-        "type": "url",
-        "url": "https://www.ip2location.com/demo"
-      },
-      {
-        "name": "IP Fingerprints",
-        "type": "url",
-        "url": "http://www.ipfingerprints.com/"
-      },
-      {
-        "name": "DB-IP",
-        "type": "url",
-        "url": "https://db-ip.com/"
-      },
-      {
-        "name": "IP Location Finder",
-        "type": "url",
-        "url": "https://www.iplocation.net/"
-      },
-      {
-        "name": "Info Sniper",
-        "type": "url",
-        "url": "http://www.infosniper.net/"
-      },
-      {
-        "name": "utrace",
-        "type": "url",
-        "url": "http://en.utrace.de/"
-      },
-      {
-        "name": "InfobyIP.com",
-        "type": "url",
-        "url": "https://www.infobyip.com/"
-      },
-      {
-        "name": "ipTRACKERonline",
-        "type": "url",
-        "url": "https://www.iptrackeronline.com/"
-      },
-      {
-        "name": "My IP Address",
-        "type": "url",
-        "url": "https://www.ipaddress.my/"
-      }]
-    },
     {
       "name": "Host / Port Discovery",
       "type": "folder",
