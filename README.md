@@ -38,11 +38,7 @@ Open-source intelligence (OSINT) involves gathering publicly accessible data fro
 * Other OSINT resources
 
 > ### Note:
-> *The concept of OSINT originated in military intelligence settings where it was used for espionage and strategic intelligence through media like newspapers and radio broadcasts.*
-&nbsp;
-&nbsp;
-&nbsp;
-With the growth of the internet and digital communications, the scope and impact of OSINT have significantly expanded. The OSINT Framework provides a structured method for performing open-source intelligence tasks, benefiting security researchers, government agencies, and cybersecurity professionals in information gathering.
+> *The concept of OSINT originated in military intelligence settings where it was used for espionage and strategic intelligence through media like newspapers and radio broadcasts. With the growth of the internet and digital communications, the scope and impact of OSINT have significantly expanded. The OSINT Framework provides a structured method for performing open-source intelligence tasks, benefiting security researchers, government agencies, and cybersecurity professionals in information gathering.*
 &nbsp;
 &nbsp;
 &nbsp;
