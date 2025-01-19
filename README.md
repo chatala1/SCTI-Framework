@@ -37,7 +37,7 @@ Open-source intelligence (OSINT) involves gathering publicly accessible data fro
 * Online forums
 * Other OSINT resources
 
-> ### Note:
+> **Note:**
 > *The concept of OSINT originated in military intelligence settings where it was used for espionage and strategic intelligence through media like newspapers and radio broadcasts. With the growth of the internet and digital communications, the scope and impact of OSINT have significantly expanded. The OSINT Framework provides a structured method for performing open-source intelligence tasks, benefiting security researchers, government agencies, and cybersecurity professionals in information gathering.*
 &nbsp;
 &nbsp;
@@ -45,7 +45,7 @@ Open-source intelligence (OSINT) involves gathering publicly accessible data fro
 ## Utilizing OSINT Tools for Effective Data Harvesting
 The OSINT Framework, besides being an exhaustive source for data collection on multiple targets, can also function as a cybersecurity checklist for scrutinizing individuals or corporations. Tools like Shodan are used to find intelligence about devices and vulnerabilities, while Spyse collects data on websites, their owners, and associated servers.
 
-> **The Harvester** 
+> **The Harvester:** 
 > Searches for relevant information from public sources like search engines and social media platforms, displaying results including email addresses and social media profiles. Specialized tools like Spiderfoot integrate with multiple data sources for free and are easily accessible via platforms like GitHub.
 
 *These tools and resources aid in obtaining real-time insights into current events, incidents, and trends to enhance situational awareness.*
