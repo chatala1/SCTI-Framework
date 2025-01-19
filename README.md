@@ -1,5 +1,5 @@
 # OSINT-Framework
-&nbsp;
+
 ### Table of Contents
 - [Introduction](#introduction)
 - [Exploring the OSINT Framework](#exploring-the-osint-framework)
@@ -125,6 +125,7 @@ Yes, OSINT can be free to use, as there are various platforms and tools availabl
 ### 4. What is OSINT and why is it important?
 OSINT, or open-source intelligence, is important as it allows organizations and individuals to gather real-time information from publicly available sources, supporting informed decision-making and providing early warnings of potential threats.
 
+&nbsp;
 ## Summary
 In summary, the OSINT Framework is a powerful tool that harnesses the power of publicly available data for intelligence gathering. From its humble beginnings as a military intelligence tool to its current applications in various sectors like government, law enforcement, and the corporate world, OSINT has proved its worth. With ethical considerations at its core, and the ability to integrate with other cybersecurity practices, it’s clear that OSINT is an indispensable tool in the digital age.
 
