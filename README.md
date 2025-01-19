@@ -64,7 +64,7 @@ Trendsmap is used to analyze trending Twitter keywords and hashtags, featuring a
 ### Deep and Dark Web Exploration
 The Deep and Dark Web, often seen as the internet’s underbelly, holds valuable information for OSINT. This part of the web is not indexed by conventional search engines and requires specialized tools like the Tor browser for access. TorBot, a Python-based OSINT tool for the dark web, is designed to crawl and index .onion sites, returning information such as page titles, addresses, and descriptions, while storing the results in a JSON format.
 
-Incorporating dark web monitoring is essential for a comprehensive OSINT strategy, enabling ongoing surveillance of illicit activities. Maltego, used in conjunction with Elasticsearch and Kibana, allows analysts to visualize and analyze dark web data through storage and complex query execution. Ahmia.fi serves as a deep web search engine that gathers .onion URLs from the Tor network, creating a significant index of such content. These tools and resources assist in probing the deep and dark web, a key component of OSINT.
+> **Incorporating dark web monitoring:** is essential for a comprehensive OSINT strategy, enabling ongoing surveillance of illicit activities. Maltego, used in conjunction with Elasticsearch and Kibana, allows analysts to visualize and analyze dark web data through storage and complex query execution. Ahmia.fi serves as a deep web search engine that gathers .onion URLs from the Tor network, creating a significant index of such content. These tools and resources assist in probing the deep and dark web, a key component of OSINT.
 
 
 
