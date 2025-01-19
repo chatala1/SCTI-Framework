@@ -1,5 +1,24 @@
 # OSINT-Framework
 
+# Table of Contents
+- [Introduction](#introduction)
+- [Exploring the OSINT Framework](#exploring-the-osint-framework)
+- [Utilizing OSINT Tools for Effective Data Harvesting](#utilizing-osint-tools-for-effective-data-harvesting)
+  - [Search Engines and Directories](#search-engines-and-directories)
+  - [Social Media Monitoring](#social-media-monitoring)
+  - [Deep and Dark Web Exploration](#deep-and-dark-web-exploration)
+- [Advanced Techniques in OSINT Framework](#advanced-techniques-in-osint-framework)
+- [Open Source Intelligence for Various Sectors](#open-source-intelligence-for-various-sectors)
+  - [Government and Law Enforcement](#government-and-law-enforcement)
+  - [Corporate Security and Business Strategy](#corporate-security-and-business-strategy)
+- [Ethical Considerations in OSINT Gathering](#ethical-considerations-in-osint-gathering)
+- [Integrating OSINT with Other Cybersecurity Practices](#integrating-osint-with-other-cybersecurity-practices)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Summary](#summary)
+
+---
+
+
 ## What is the OSINT Framework? How can you use it?
 The OSINT Framework provides a structured approach to gathering publicly available information, expanding in scope due to the internet and digital communications, and offering tools and techniques for open-source data analysis.
 OSINT tools within the framework enable effective data harvesting from various online sources, including social media and search engines. They also extend to exploring the Deep and Dark Web, offering insights across multiple sectors.
