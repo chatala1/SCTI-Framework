@@ -23,9 +23,9 @@
 &nbsp;
 &nbsp;
 ## What is the OSINT Framework? How can you use it?
-The OSINT Framework provides a structured approach to gathering publicly available information, expanding in scope due to the internet and digital communications, and offering tools and techniques for open-source data analysis.
-OSINT tools within the framework enable effective data harvesting from various online sources, including social media and search engines. They also extend to exploring the Deep and Dark Web, offering insights across multiple sectors.
-Ethical considerations in OSINT gathering are crucial, requiring adherence to legal standards such as GDPR and the ethical collection of data, while respecting terms of service and maintaining transparency.
+* The OSINT Framework provides a structured approach to gathering publicly available information, expanding in scope due to the internet and digital communications, and offering tools and techniques for open-source data analysis.
+* OSINT tools within the framework enable effective data harvesting from various online sources, including social media and search engines. They also extend to exploring the Deep and Dark Web, offering insights across multiple sectors.
+* Ethical considerations in OSINT gathering are crucial, requiring adherence to legal standards such as GDPR and the ethical collection of data, while respecting terms of service and maintaining transparency.
 &nbsp;
 &nbsp;
 &nbsp;
