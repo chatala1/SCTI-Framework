@@ -1,6 +1,6 @@
 # OSINT-Framework
 
-# Table of Contents
+### Table of Contents
 - [Introduction](#introduction)
 - [Exploring the OSINT Framework](#exploring-the-osint-framework)
 - [Utilizing OSINT Tools for Effective Data Harvesting](#utilizing-osint-tools-for-effective-data-harvesting)
