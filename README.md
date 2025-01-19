@@ -1,9 +1,5 @@
 # OSINT-Framework
 
-> ### Definition of OSINT (Open Source Intelligence):
-> OSINT is defined in the United States of America by Public Law 109-163 as cited by both the U.S. Director of National Intelligence and the U.S. Department of Defense (DoD), as intelligence "produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement."[5] As defined by NATO, OSINT is intelligence "derived from publicly available information, as well as other unclassified information that has limited public distribution or access."[6]
-
-
 # Table of Contents
 - [Introduction](#introduction)
 - [Exploring the OSINT Framework](#exploring-the-osint-framework)
@@ -21,6 +17,8 @@
 - [Summary](#summary)
 
 
+> ### Definition of OSINT (Open Source Intelligence):
+> OSINT is defined in the United States of America by Public Law 109-163 as cited by both the U.S. Director of National Intelligence and the U.S. Department of Defense (DoD), as intelligence "produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement." As defined by NATO, OSINT is intelligence "derived from publicly available information, as well as other unclassified information that has limited public distribution or access."
 
 ## What is the OSINT Framework? How can you use it?
 The OSINT Framework provides a structured approach to gathering publicly available information, expanding in scope due to the internet and digital communications, and offering tools and techniques for open-source data analysis.
@@ -35,7 +33,8 @@ Open-source intelligence (OSINT) involves gathering publicly accessible data fro
 * Online forums
 * Other OSINT resources
 
-*The concept of OSINT originated in military intelligence settings where it was used for espionage and strategic intelligence through media like newspapers and radio broadcasts.*
+> ### Note:
+> *The concept of OSINT originated in military intelligence settings where it was used for espionage and strategic intelligence through media like newspapers and radio broadcasts.*
 
 With the growth of the internet and digital communications, the scope and impact of OSINT have significantly expanded. The OSINT Framework provides a structured method for performing open-source intelligence tasks, benefiting security researchers, government agencies, and cybersecurity professionals in information gathering.
 
