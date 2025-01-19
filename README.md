@@ -64,19 +64,17 @@ The Deep and Dark Web, often seen as the internet’s underbelly, holds valuable
 
 > **Incorporating dark web monitoring:** is essential for a comprehensive OSINT strategy, enabling ongoing surveillance of illicit activities. Maltego, used in conjunction with Elasticsearch and Kibana, allows analysts to visualize and analyze dark web data through storage and complex query execution. Ahmia.fi serves as a deep web search engine that gathers .onion URLs from the Tor network, creating a significant index of such content. These tools and resources assist in probing the deep and dark web, a key component of OSINT.
 
-
-
+&nbsp;
 ## Beyond the Basics: Advanced Techniques in OSINT Framework
 Delving deeper into the OSINT framework reveals advanced techniques furnishing valuable insights across multiple sectors. Industrial control systems (ICS), critical components of operational infrastructure, can be analyzed through advanced OSINT techniques, offering insights into companies, infrastructure, and technology relevant to the industrial sector. For a deeper understanding of how these and other intelligence insights can enhance the security and resilience of critical infrastructure, visit Recorded Future's discussion on attack surface intelligence for critical infrastructure.
 
 The intelligence cycle, including the following stages, is vital in applying OSINT techniques alongside traditional intelligence gathering methods to generate actionable intelligence on industrial control systems:
-
-Preparation
-Collection
-Processing
-Analysis
-Dissemination
-Techniques such as using advanced search operators, web scraping tools, and analyzing IP addresses enable analysts to identify potential emerging threats and uncover detailed information about industrial equipment, vulnerabilities, and security incidents related to industrial control systems.
+* Preparation
+* Collection
+* Processing
+* Analysis
+* Dissemination
+* Techniques such as using advanced search operators, web scraping tools, and analyzing IP addresses enable analysts to identify potential emerging threats and uncover detailed information about industrial equipment, vulnerabilities, and security incidents related to industrial control systems.
 
 Furthermore, analysis of documents like patent filings, technical manuals, and industry reports, coupled with data analysis tools, is instrumental in identifying trends, vulnerabilities, and operational insights about industrial control systems.
 
