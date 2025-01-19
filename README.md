@@ -26,8 +26,7 @@
 * The OSINT Framework provides a structured approach to gathering publicly available information, expanding in scope due to the internet and digital communications, and offering tools and techniques for open-source data analysis.
 * OSINT tools within the framework enable effective data harvesting from various online sources, including social media and search engines. They also extend to exploring the Deep and Dark Web, offering insights across multiple sectors.
 * Ethical considerations in OSINT gathering are crucial, requiring adherence to legal standards such as GDPR and the ethical collection of data, while respecting terms of service and maintaining transparency.
-&nbsp;
-&nbsp;
+
 &nbsp;
 ## Exploring the OSINT Framework: A Primer
 Open-source intelligence (OSINT) involves gathering publicly accessible data from sources like:
@@ -39,17 +38,16 @@ Open-source intelligence (OSINT) involves gathering publicly accessible data fro
 
 > **Note:**
 > *The concept of OSINT originated in military intelligence settings where it was used for espionage and strategic intelligence through media like newspapers and radio broadcasts. With the growth of the internet and digital communications, the scope and impact of OSINT have significantly expanded. The OSINT Framework provides a structured method for performing open-source intelligence tasks, benefiting security researchers, government agencies, and cybersecurity professionals in information gathering.*
-&nbsp;
-&nbsp;
+
 &nbsp;
 ## Utilizing OSINT Tools for Effective Data Harvesting
 The OSINT Framework, besides being an exhaustive source for data collection on multiple targets, can also function as a cybersecurity checklist for scrutinizing individuals or corporations. Tools like Shodan are used to find intelligence about devices and vulnerabilities, while Spyse collects data on websites, their owners, and associated servers.
 
-> **The Harvester:** &nbsp;
+> **The Harvester:**
+> &nbsp;
 > Searches for relevant information from public sources like search engines and social media platforms, displaying results including email addresses and social media profiles. Specialized tools like Spiderfoot integrate with multiple data sources for free and are easily accessible via platforms like GitHub.
 
 *These tools and resources aid in obtaining real-time insights into current events, incidents, and trends to enhance situational awareness.*
-
 &nbsp;
 ### Search Engines and Directories
 Search engines are crucial in the realm of OSINT. According to Statcounter, Baidu, owns a 61% market share in China, and Yandex, commanding over 71% of the Russian desktop search market (source: Statista), are essential for OSINT due to their widespread use. These search engines provide a wealth of localized data that can be leveraged for intelligence gathering.
