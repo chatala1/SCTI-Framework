@@ -1,4 +1,7 @@
 # OSINT-Framework
+&nbsp;
+> ### Definition of OSINT (Open Source Intelligence):
+> OSINT is defined in the United States of America by Public Law 109-163 as cited by both the U.S. Director of National Intelligence and the U.S. Department of Defense (DoD), as intelligence "produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement." As defined by NATO, OSINT is intelligence "derived from publicly available information, as well as other unclassified information that has limited public distribution or access."
 
 ### Table of Contents
 - [Introduction](#introduction)
@@ -15,10 +18,6 @@
 - [Integrating OSINT with Other Cybersecurity Practices](#integrating-osint-with-other-cybersecurity-practices)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Summary](#summary)
-
-&nbsp;
-> ### Definition of OSINT (Open Source Intelligence):
-> OSINT is defined in the United States of America by Public Law 109-163 as cited by both the U.S. Director of National Intelligence and the U.S. Department of Defense (DoD), as intelligence "produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific intelligence requirement." As defined by NATO, OSINT is intelligence "derived from publicly available information, as well as other unclassified information that has limited public distribution or access."
 
 &nbsp;
 ## What is the OSINT Framework? How can you use it?
