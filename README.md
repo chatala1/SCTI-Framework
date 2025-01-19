@@ -122,16 +122,13 @@ Furthermore, OSINT complements internal cybersecurity measures by enriching secu
 What is the OSINT framework?
 An OSINT framework is a tool for gathering information from free resources to help find OSINT resources. It aims to provide access to information without cost, although some sites may require registration or offer additional data for a fee.
 
-### Is the OSINT framework legal?
+### 1. Is the OSINT framework legal?
 Yes, the OSINT framework is legal because it only uses information available from public sources, making it completely legal and ethical to use.
 
-### Is OSINT free to use?
+### 2. Is OSINT free to use?
 Yes, OSINT can be free to use, as there are various platforms and tools available at no cost, such as Maltego or basic web search tools. While some sources may require a subscription, most tools offer free versions.
 
-### What is the best OSINT?
-The best OSINT tools include Google Dorks, Sherlock, Holehe, Shodan, The Harvard, PimEyes, and WHOIS Lookup, which can help you search for information effectively.
-
-### What is OSINT and why is it important?
+### 3. What is OSINT and why is it important?
 OSINT, or open-source intelligence, is important as it allows organizations and individuals to gather real-time information from publicly available sources, supporting informed decision-making and providing early warnings of potential threats.
 
 ## Summary
