@@ -45,12 +45,12 @@ Open-source intelligence (OSINT) involves gathering publicly accessible data fro
 ## Utilizing OSINT Tools for Effective Data Harvesting
 The OSINT Framework, besides being an exhaustive source for data collection on multiple targets, can also function as a cybersecurity checklist for scrutinizing individuals or corporations. Tools like Shodan are used to find intelligence about devices and vulnerabilities, while Spyse collects data on websites, their owners, and associated servers.
 
-> **The Harvester:** 
+> **The Harvester:** &nbsp;
 > Searches for relevant information from public sources like search engines and social media platforms, displaying results including email addresses and social media profiles. Specialized tools like Spiderfoot integrate with multiple data sources for free and are easily accessible via platforms like GitHub.
 
 *These tools and resources aid in obtaining real-time insights into current events, incidents, and trends to enhance situational awareness.*
 
-
+&nbsp;
 ### Search Engines and Directories
 Search engines are crucial in the realm of OSINT. According to Statcounter, Baidu, owns a 61% market share in China, and Yandex, commanding over 71% of the Russian desktop search market (source: Statista), are essential for OSINT due to their widespread use. These search engines provide a wealth of localized data that can be leveraged for intelligence gathering.
 
