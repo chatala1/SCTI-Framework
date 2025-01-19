@@ -1,5 +1,4 @@
 # OSINT-Framework
-### Threat Intelligence 101
 
 ## What is the OSINT Framework? How can you use it?
 The OSINT Framework provides a structured approach to gathering publicly available information, expanding in scope due to the internet and digital communications, and offering tools and techniques for open-source data analysis.
@@ -7,14 +6,14 @@ OSINT tools within the framework enable effective data harvesting from various o
 Ethical considerations in OSINT gathering are crucial, requiring adherence to legal standards such as GDPR and the ethical collection of data, while respecting terms of service and maintaining transparency.
 
 ## Exploring the OSINT Framework: A Primer
-
 Open-source intelligence (OSINT) involves gathering publicly accessible data from sources like:
-News articles
-Social media posts
-Government reports
-Online forums
-Other OSINT resources
-The concept of OSINT originated in military intelligence settings where it was used for espionage and strategic intelligence through media like newspapers and radio broadcasts.
+* News articles
+* Social media posts
+* Government reports
+* Online forums
+* Other OSINT resources
+
+*The concept of OSINT originated in military intelligence settings where it was used for espionage and strategic intelligence through media like newspapers and radio broadcasts.*
 
 With the growth of the internet and digital communications, the scope and impact of OSINT have significantly expanded. The OSINT Framework provides a structured method for performing open-source intelligence tasks, benefiting security researchers, government agencies, and cybersecurity professionals in information gathering.
 
