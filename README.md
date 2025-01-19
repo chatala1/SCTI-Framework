@@ -74,7 +74,7 @@ The intelligence cycle, including the following stages, is vital in applying OSI
 * Dissemination
 * Techniques such as using advanced search operators, web scraping tools, and analyzing IP addresses enable analysts to identify potential emerging threats and uncover detailed information about industrial equipment, vulnerabilities, and security incidents related to industrial control systems.
 
-Furthermore, analysis of documents like patent filings, technical manuals, and industry reports, coupled with data analysis tools, is instrumental in identifying trends, vulnerabilities, and operational insights about industrial control systems.
+**Furthermore, analysis of documents like patent filings, technical manuals, and industry reports, coupled with data analysis tools, is instrumental in identifying trends, vulnerabilities, and operational insights about industrial control systems.**
 
 &nbsp;
 ## Open Source Intelligence for Various Sectors
